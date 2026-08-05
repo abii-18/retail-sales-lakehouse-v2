@@ -1,0 +1,515 @@
+import sys
+
+from awsglue.context import GlueContext
+from awsglue.job import Job
+from awsglue.utils import getResolvedOptions
+
+from pyspark.context import SparkContext
+from pyspark.sql import functions as F
+from pyspark.sql.window import Window
+from pyspark.sql.functions import col
+
+
+args = getResolvedOptions(
+    sys.argv,
+    [
+        "JOB_NAME",
+
+        "RAW_ROOT_PATH",
+
+        "BRONZE_ROOT_PATH",
+
+        "SILVER_ROOT_PATH",
+
+        "REJECT_ROOT_PATH",
+
+        "BATCH_DATE"
+    ]
+)
+
+sc = SparkContext()
+glue_context = GlueContext(sc)
+spark = glue_context.spark_session
+
+job = Job(glue_context)
+job.init(args["JOB_NAME"], args)
+
+batch_date = args["BATCH_DATE"]
+
+raw_root_path = args["RAW_ROOT_PATH"]
+bronze_root_path = args["BRONZE_ROOT_PATH"]
+silver_root_path = args["SILVER_ROOT_PATH"]
+reject_root_path = args["REJECT_ROOT_PATH"]
+
+
+bronze_orders_path = f"{bronze_root_path}/orders"
+bronze_customers_path = f"{bronze_root_path}/customers"
+silver_orders_path = f"{silver_root_path}/orders"
+silver_customers_path = f"{silver_root_path}/customers"
+silver_products_path = f"{silver_root_path}/products"
+silver_stores_path = f"{silver_root_path}/stores"
+silver_order_items_path = f"{silver_root_path}/order_items"
+silver_payments_path = f"{silver_root_path}/payments"
+reject_customers_path = f"{reject_root_path}/customers"
+fx_rates_path = f"{raw_root_path}/currency/batch_date={batch_date}/fx_rates.csv"
+
+
+print(f"Batch Date            : {batch_date}")
+print(f"Bronze Orders Path    : {bronze_orders_path}")
+print(f"Bronze Customers Path : {bronze_customers_path}")
+print(f"Silver Orders Path    : {silver_orders_path}")
+print(f"Silver Customers Path : {silver_customers_path}")
+print(f"Reject Customers Path : {reject_customers_path}")
+print(f"FX Rates Path         : {fx_rates_path}")
+
+
+# Read Bronze Orders
+orders_df = spark.read.parquet(bronze_orders_path)
+
+print("Orders Schema")
+orders_df.printSchema()
+
+print("Sample Orders")
+orders_df.show(5, truncate=False)
+
+
+# Read FX Rates
+fx_df = (
+    spark.read
+    .option("header", True)
+    .csv(fx_rates_path)
+)
+
+fx_df = (
+    fx_df
+    .withColumn(
+        "exchange_rate",
+        col("exchange_rate").cast("double")
+    )
+    .select(
+        "target_currency",
+        "exchange_rate"
+    )
+)
+
+print("FX Schema")
+fx_df.printSchema()
+
+print("Sample FX Rates")
+fx_df.show(10, truncate=False)
+
+# Read Bronze Customers
+customers_df = spark.read.parquet(bronze_customers_path)
+
+print("Customers Schema")
+customers_df.printSchema()
+
+print("Sample Customers")
+customers_df.show(5, truncate=False)
+
+# Deduplicate Customers
+customer_window = Window.partitionBy("customer_id").orderBy(
+    F.col("ingestion_timestamp").desc()
+)
+
+customers_df = (
+    customers_df
+    .withColumn(
+        "row_num",
+        F.row_number().over(customer_window)
+    )
+    .filter(
+        F.col("row_num") == 1
+    )
+    .drop("row_num")
+)
+
+# Read Bronze Products
+products_df = spark.read.parquet(f"{bronze_root_path}/products/")
+
+print("Products Schema")
+products_df.printSchema()
+
+print("Sample Products")
+products_df.show(5, truncate=False)
+
+# Read Bronze Stores
+stores_df = spark.read.parquet(f"{bronze_root_path}/stores/")
+
+print("Stores Schema")
+stores_df.printSchema()
+
+print("Sample Stores")
+stores_df.show(5, truncate=False)
+
+# Read Bronze Order Items
+order_items_df = spark.read.parquet(f"{bronze_root_path}/order_items/")
+
+print("Order Items Schema")
+order_items_df.printSchema()
+
+print("Sample Order Items")
+order_items_df.show(5, truncate=False)
+
+# Read Bronze Payments
+payments_df = spark.read.parquet(f"{bronze_root_path}/payments/")
+
+print("Payments Schema")
+payments_df.printSchema()
+
+print("Sample Payments")
+payments_df.show(5, truncate=False)
+
+# Bronze row count
+bronze_count = orders_df.count()
+print(f"Bronze Row Count : {bronze_count}")
+
+
+
+
+# Deduplicate records
+window_spec = Window.partitionBy("order_id").orderBy(
+    F.col("ingestion_timestamp").desc()
+)
+
+orders_df = (
+    orders_df
+    .withColumn("row_num", F.row_number().over(window_spec))
+    .filter(F.col("row_num") == 1)
+    .drop("row_num")
+)
+
+silver_count = orders_df.count()
+
+print(f"Silver Row Count : {silver_count}")
+print(f"Duplicate Rows Removed : {bronze_count - silver_count}")
+
+
+# Mandatory columns
+mandatory_columns = [
+    "order_id",
+    "customer_id",
+    "store_id",
+    "order_date",
+    "order_status",
+    "currency_code",
+    "created_at",
+    "ingestion_timestamp",
+    "batch_date",
+    "source_system",
+    "source_file"
+]
+
+
+# Null validation
+print("Null Counts")
+
+null_counts = orders_df.select(
+    [
+        F.count(F.when(F.col(column).isNull(), column)).alias(column)
+        for column in mandatory_columns
+    ]
+)
+
+null_counts.show(truncate=False)
+
+
+# Remove rows with mandatory nulls
+orders_df = orders_df.dropna(subset=mandatory_columns)
+
+final_count = orders_df.count()
+
+print(f"Final Silver Row Count : {final_count}")
+print(f"Rows Removed Due To Nulls : {silver_count - final_count}")
+
+
+# Join FX Rates
+orders_df = (
+    orders_df.join(
+        fx_df,
+        orders_df.currency_code == fx_df.target_currency,
+        "left"
+    )
+    .drop("target_currency")
+)
+
+
+print("Orders With Exchange Rates")
+orders_df.select(
+    "order_id",
+    "currency_code",
+    "exchange_rate"
+).show(20, truncate=False)
+
+
+# Customer Cleansing
+
+
+customers_df = (
+    customers_df
+    .withColumn(
+        "first_name",
+        F.initcap(F.trim(F.col("first_name")))
+    )
+    .withColumn(
+        "last_name",
+        F.initcap(F.trim(F.col("last_name")))
+    )
+)
+
+customers_df = (
+    customers_df
+    .withColumn(
+        "state",
+        F.when(
+            F.lower(F.regexp_replace(F.col("state"), " ", "")) == "tn",
+            "Tamil Nadu"
+        )
+        .when(
+            F.lower(F.regexp_replace(F.col("state"), " ", "")) == "tamilnadu",
+            "Tamil Nadu"
+        )
+        .when(
+            F.lower(F.regexp_replace(F.col("state"), " ", "")) == "ka",
+            "Karnataka"
+        )
+        .when(
+            F.lower(F.regexp_replace(F.col("state"), " ", "")) == "karnataka",
+            "Karnataka"
+        )
+        .when(
+            F.lower(F.regexp_replace(F.col("state"), " ", "")) == "mh",
+            "Maharashtra"
+        )
+        .when(
+            F.lower(F.regexp_replace(F.col("state"), " ", "")) == "maharashtra",
+            "Maharashtra"
+        )
+        .otherwise(F.initcap(F.trim(F.col("state"))))
+    )
+)
+
+customers_df = (
+    customers_df
+    .withColumn(
+        "country",
+        F.initcap(F.trim(F.col("country")))
+    )
+)
+
+customers_df = (
+    customers_df
+    .withColumn(
+        "phone",
+        F.regexp_replace(
+            F.col("phone"),
+            r"[\s\-\(\)\+]",
+            ""
+        )
+    )
+)
+
+email_pattern = r"^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$"
+
+valid_customers_df = customers_df.filter(
+    F.col("email").rlike(email_pattern)
+)
+
+reject_customers_df = (
+    customers_df
+    .filter(
+        ~F.col("email").rlike(email_pattern)
+    )
+    .withColumn(
+        "reject_reason",
+        F.lit("Invalid Email")
+    )
+)
+
+print(f"Valid Customers    : {valid_customers_df.count()}")
+print(f"Rejected Customers : {reject_customers_df.count()}")
+
+print("Valid Customers")
+
+valid_customers_df.show(10, truncate=False)
+
+print("Rejected Customers")
+
+reject_customers_df.show(10, truncate=False)
+
+# Product Cleansing
+
+product_window = Window.partitionBy("product_id").orderBy(
+    F.col("ingestion_timestamp").desc()
+)
+
+products_df = (
+    products_df
+    .withColumn(
+        "row_num",
+        F.row_number().over(product_window)
+    )
+    .filter(
+        F.col("row_num") == 1
+    )
+    .drop("row_num")
+)
+
+products_df = (
+    products_df
+    .withColumn(
+        "product_name",
+        F.initcap(F.trim(F.col("product_name")))
+    )
+    .withColumn(
+        "category",
+        F.initcap(F.trim(F.col("category")))
+    )
+)
+
+print(f"Silver Products : {products_df.count()}")
+
+products_df.show(10, truncate=False)
+
+# Store Cleansing
+
+store_window = Window.partitionBy("store_id").orderBy(
+    F.col("ingestion_timestamp").desc()
+)
+
+stores_df = (
+    stores_df
+    .withColumn(
+        "row_num",
+        F.row_number().over(store_window)
+    )
+    .filter(
+        F.col("row_num") == 1
+    )
+    .drop("row_num")
+)
+
+stores_df = (
+    stores_df
+    .withColumn(
+        "store_name",
+        F.initcap(F.trim(F.col("store_name")))
+    )
+    .withColumn(
+        "region",
+        F.initcap(F.trim(F.col("region")))
+    )
+    .withColumn(
+        "country",
+        F.initcap(F.trim(F.col("country")))
+    )
+)
+
+print(f"Silver Stores : {stores_df.count()}")
+
+stores_df.show(10, truncate=False)
+
+# Order Items Cleansing
+
+order_items_window = Window.partitionBy("order_item_id").orderBy(
+    F.col("ingestion_timestamp").desc()
+)
+
+order_items_df = (
+    order_items_df
+    .withColumn(
+        "row_num",
+        F.row_number().over(order_items_window)
+    )
+    .filter(
+        F.col("row_num") == 1
+    )
+    .drop("row_num")
+)
+
+
+print(f"Silver Order Items : {order_items_df.count()}")
+
+order_items_df.show(10, truncate=False)
+
+# Payments Cleansing
+
+payments_window = Window.partitionBy("payment_id").orderBy(
+    F.col("ingestion_timestamp").desc()
+)
+
+payments_df = (
+    payments_df
+    .withColumn(
+        "row_num",
+        F.row_number().over(payments_window)
+    )
+    .filter(
+        F.col("row_num") == 1
+    )
+    .drop("row_num")
+)
+
+payments_df = (
+    payments_df
+    .withColumn(
+        "payment_method",
+        F.initcap(
+            F.regexp_replace(
+                F.trim(F.col("payment_method")),
+                "_",
+                " "
+            )
+        )
+    )
+)
+
+print(f"Silver Payments : {payments_df.count()}")
+
+payments_df.show(10, truncate=False)
+
+
+# Write Silver layer
+orders_df.write \
+    .mode("overwrite") \
+    .parquet(silver_orders_path)
+
+print("Silver Orders written successfully.")
+
+products_df.write \
+    .mode("overwrite") \
+    .parquet(silver_products_path)
+
+print("Silver Products written successfully.")
+
+stores_df.write \
+    .mode("overwrite") \
+    .parquet(silver_stores_path)
+
+print("Silver Stores written successfully.")
+
+order_items_df.write \
+    .mode("overwrite") \
+    .parquet(silver_order_items_path)
+
+print("Silver Order Items written successfully.")
+
+payments_df.write \
+    .mode("overwrite") \
+    .parquet(silver_payments_path)
+
+print("Silver Payments written successfully.")
+
+valid_customers_df.write \
+    .mode("overwrite") \
+    .parquet(silver_customers_path)
+
+print("Silver Customers written successfully.")
+
+reject_customers_df.write \
+    .mode("overwrite") \
+    .parquet(reject_customers_path)
+
+print("Rejected Customers written successfully.")
+
+job.commit()

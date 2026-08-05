@@ -1,0 +1,85 @@
+version: 2
+
+models:
+  - name: dim_customer
+    description: Customer dimension table.
+
+    columns:
+      - name: customer_key
+        description: Surrogate key for the customer.
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_id
+        description: Source system customer identifier.
+
+      - name: email
+        description: Customer email address.
+
+  - name: dim_product
+    description: Product dimension table.
+
+    columns:
+      - name: product_key
+        description: Surrogate key for the product.
+        tests:
+          - unique
+          - not_null
+
+      - name: product_id
+        description: Source system product identifier.
+
+  - name: dim_store
+    description: Store dimension table.
+
+    columns:
+      - name: store_key
+        description: Surrogate key for the store.
+        tests:
+          - unique
+          - not_null
+
+      - name: store_id
+        description: Source system store identifier.
+
+  - name: dim_date
+    description: Calendar dimension.
+
+    columns:
+      - name: date_key
+        description: Calendar date.
+        tests:
+          - unique
+          - not_null
+
+  - name: fact_sales
+    description: Sales fact table at the order item grain.
+
+    columns:
+      - name: order_item_id
+        description: Unique order item identifier.
+        tests:
+          - unique
+          - not_null
+
+      - name: customer_key
+        description: Foreign key to dim_customer.
+        tests:
+          - relationships:
+              to: ref('dim_customer')
+              field: customer_key
+
+      - name: product_key
+        description: Foreign key to dim_product.
+        tests:
+          - relationships:
+              to: ref('dim_product')
+              field: product_key
+
+      - name: store_key
+        description: Foreign key to dim_store.
+        tests:
+          - relationships:
+              to: ref('dim_store')
+              field: store_key

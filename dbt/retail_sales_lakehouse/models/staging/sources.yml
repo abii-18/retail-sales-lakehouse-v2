@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+  - name: staging
+    description: "Raw tables loaded into Snowflake by the Airflow COPY INTO process."
+
+    database: RETAIL_LAKEHOUSE
+    schema: STAGING
+
+    tables:
+      - name: CUSTOMERS
+        description: "Customer master data."
+
+      - name: PRODUCTS
+        description: "Product master data."
+
+      - name: STORES
+        description: "Store master data."
+
+      - name: ORDERS
+        description: "Sales order headers."
+
+      - name: ORDER_ITEMS
+        description: "Sales order line items."
+
+      - name: PAYMENTS
+        description: "Payment transactions."

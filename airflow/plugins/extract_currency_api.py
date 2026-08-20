@@ -1,6 +1,6 @@
-from pathlib import Path
 import json
 import time
+from pathlib import Path
 
 import pandas as pd
 import requests
@@ -17,7 +17,6 @@ RETRY_DELAY = 5
 
 
 def get_exchange_rates():
-
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             print(f"\nAttempt {attempt}/{MAX_RETRIES}")
@@ -25,10 +24,7 @@ def get_exchange_rates():
             response.raise_for_status()
             data = response.json()
             save_latest_rates(data)
-            save_status(
-                status="SUCCESS",
-                reason="Live API data used."
-            )
+            save_status(status="SUCCESS", reason="Live API data used.")
             print("Exchange rates fetched successfully.")
             return data
         except requests.exceptions.RequestException as e:
@@ -46,13 +42,8 @@ def get_exchange_rates():
             "Currency API failed and no cached exchange-rate file exists."
         )
 
-    save_status(
-        status="DEGRADED",
-        reason="API unavailable. Previous successful exchange rates used."
-    )
+    save_status(status="DEGRADED", reason="API unavailable. Previous successful exchange rates used.")
     return data
-
-
 
 def save_latest_rates(data):
     STAGING_PATH.mkdir(parents=True, exist_ok=True)
@@ -68,11 +59,10 @@ def load_latest_rates():
 
 
 def save_status(status, reason):
-
     STAGING_PATH.mkdir(parents=True, exist_ok=True)
     payload = {
         "status": status,
-        "reason": reason
+        "reason": reason,
     }
     with open(STATUS_FILE, "w") as file:
         json.dump(payload, file, indent=4)
@@ -86,7 +76,7 @@ def create_dataframe(data):
                 "base_currency": data["base_code"],
                 "target_currency": currency,
                 "exchange_rate": rate,
-                "last_updated": data["time_last_update_utc"]
+                "last_updated": data["time_last_update_utc"],
             }
         )
     return pd.DataFrame(rows)

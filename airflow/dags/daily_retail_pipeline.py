@@ -3,17 +3,14 @@ from datetime import datetime
 from airflow import DAG
 from airflow.operators.empty import EmptyOperator
 from airflow.operators.python import PythonOperator
-
+from airflow.operators.bash import BashOperator
 from airflow.providers.amazon.aws.operators.glue import GlueJobOperator
-
+from airflow.providers.snowflake.operators.snowflake import SnowflakeOperator
 from extract_postgres import main as extract_postgres_main
 from extract_currency_api import main as extract_currency_main
 from land_raw_s3 import land_raw
 from validate_raw import main as validate_raw_main
-from airflow.providers.snowflake.operators.snowflake import SnowflakeOperator
 from load_to_snowflake_stage import main as load_to_snowflake_stage_main
-
-from airflow.operators.bash import BashOperator
 
 with DAG(
     dag_id="daily_retail_pipeline",
@@ -22,10 +19,7 @@ with DAG(
     catchup=False,
     tags=["retail", "lakehouse"],
 ) as dag:
-
-    start = EmptyOperator(
-        task_id="start"
-    )
+    start = EmptyOperator(task_id="start")
 
     extract_postgres = PythonOperator(
         task_id="extract_postgres",
@@ -89,20 +83,18 @@ with DAG(
         wait_for_completion=True,
     )
 
-    upload_to_snowflake_stage = PythonOperator(  
+    upload_to_snowflake_stage = PythonOperator(
         task_id="upload_to_snowflake_stage",
         python_callable=load_to_snowflake_stage_main,
-        op_kwargs={
-            "batch_date": "{{ ds }}"
-        },
+        op_kwargs={"batch_date": "{{ ds }}"},
     )
 
     copy_into_snowflake = SnowflakeOperator(
         task_id="copy_into_snowflake",
         snowflake_conn_id="snowflake_default",
         sql="snowflake/sql/copy_into.sql",
-        )
-    
+    )
+
     dbt_run_test = BashOperator(
         task_id="dbt_run_test",
         bash_command="""
@@ -110,9 +102,7 @@ with DAG(
         """,
     )
 
-    end = EmptyOperator(
-        task_id="end"
-    )
+    end = EmptyOperator(task_id="end")
 
     start >> [extract_postgres, extract_currency_api]
 

@@ -1,0 +1,2086 @@
+table,row_hint,field,issue,generated_in_mode
+customers,row#15,phone,missing phone number,initial
+customers,row#19 (Amanda generated),email,null email,initial
+customers,row#38,phone,missing phone number,initial
+customers,row#62,phone,missing phone number,initial
+customers,row#87 (Amanda generated),email,null email,initial
+customers,row#97 (Curtis generated),email,null email,initial
+customers,row#101,phone,missing phone number,initial
+customers,row#109,phone,missing phone number,initial
+customers,row#131,phone,missing phone number,initial
+customers,row#140 (Danielle generated),email,null email,initial
+customers,row#142,phone,missing phone number,initial
+customers,row#186,phone,missing phone number,initial
+customers,row#200,phone,missing phone number,initial
+customers,row#220,phone,missing phone number,initial
+customers,row#221,phone,missing phone number,initial
+customers,row#225 (Shelia generated),email,null email,initial
+customers,row#249,phone,missing phone number,initial
+customers,row#259 (Jeremiah generated),email,null email,initial
+customers,row#265,phone,missing phone number,initial
+customers,row#267 (Kim generated),email,null email,initial
+customers,row#270,phone,missing phone number,initial
+customers,row#282 (Vincent generated),email,null email,initial
+customers,row#309,phone,missing phone number,initial
+customers,row#311 (Emily generated),email,null email,initial
+customers,row#314,phone,missing phone number,initial
+customers,row#348,phone,missing phone number,initial
+customers,row#367,phone,missing phone number,initial
+customers,row#375 (Kathleen generated),email,null email,initial
+customers,row#381 (Stephen generated),email,null email,initial
+customers,row#382,phone,missing phone number,initial
+customers,row#392 (Christian generated),email,null email,initial
+customers,row#394,phone,missing phone number,initial
+customers,row#412,phone,missing phone number,initial
+customers,row#417,phone,missing phone number,initial
+customers,row#423 (Corey generated),email,null email,initial
+customers,row#436 (Leslie generated),email,null email,initial
+customers,row#442,phone,missing phone number,initial
+customers,row#455,phone,missing phone number,initial
+customers,row#467 (Juan generated),email,null email,initial
+customers,row#475,phone,missing phone number,initial
+customers,row#482,phone,missing phone number,initial
+customers,row#483 (Michael generated),email,null email,initial
+customers,row#489,phone,missing phone number,initial
+customers,row#523,phone,missing phone number,initial
+customers,row#530,phone,missing phone number,initial
+customers,row#546,phone,missing phone number,initial
+customers,row#558,phone,missing phone number,initial
+customers,row#563,phone,missing phone number,initial
+customers,row#570,phone,missing phone number,initial
+customers,row#582,phone,missing phone number,initial
+customers,row#586,phone,missing phone number,initial
+customers,row#613,phone,missing phone number,initial
+customers,row#618 (Patrick generated),email,null email,initial
+customers,row#624,phone,missing phone number,initial
+customers,row#630,phone,missing phone number,initial
+customers,row#633,phone,missing phone number,initial
+customers,row#661 (Steven generated),email,null email,initial
+customers,row#684,phone,missing phone number,initial
+customers,row#735 (Scott generated),email,null email,initial
+customers,row#736,phone,missing phone number,initial
+customers,row#742 (Michael generated),email,null email,initial
+customers,row#745,phone,missing phone number,initial
+customers,row#746,phone,missing phone number,initial
+customers,row#757,phone,missing phone number,initial
+customers,row#771,phone,missing phone number,initial
+customers,row#773,phone,missing phone number,initial
+customers,row#779,phone,missing phone number,initial
+customers,row#784 (Stephen generated),email,null email,initial
+customers,row#802 (Joseph generated),email,null email,initial
+customers,row#804,phone,missing phone number,initial
+customers,row#808 (Elizabeth generated),email,null email,initial
+customers,row#835,phone,missing phone number,initial
+customers,row#853 (Vickie generated),email,null email,initial
+customers,row#873 (Sylvia generated),email,null email,initial
+customers,row#878 (John generated),email,null email,initial
+customers,row#878,phone,missing phone number,initial
+customers,row#879,phone,missing phone number,initial
+customers,row#889 (Jason generated),email,null email,initial
+customers,row#889,phone,missing phone number,initial
+customers,row#896 (Allison generated),email,null email,initial
+customers,row#907,phone,missing phone number,initial
+customers,row#916 (Tasha generated),email,null email,initial
+customers,row#947 (Sara generated),email,null email,initial
+customers,row#963,phone,missing phone number,initial
+customers,row#975,phone,missing phone number,initial
+customers,row#982 (Bryan generated),email,null email,initial
+customers,row#983 (Cory generated),email,null email,initial
+customers,row#985,phone,missing phone number,initial
+customers,row#1000 (Christopher generated),email,null email,initial
+customers,row#1000,phone,missing phone number,initial
+customers,row#1022,phone,missing phone number,initial
+customers,row#1049 (Timothy generated),email,null email,initial
+customers,row#1051 (Lisa generated),email,null email,initial
+customers,row#1080,phone,missing phone number,initial
+customers,row#1104,phone,missing phone number,initial
+customers,row#1108 (John generated),email,null email,initial
+customers,row#1110,phone,missing phone number,initial
+customers,row#1122 (Ashley generated),email,null email,initial
+customers,row#1145 (David generated),email,null email,initial
+customers,row#1160,phone,missing phone number,initial
+customers,row#1170,phone,missing phone number,initial
+customers,row#1175,phone,missing phone number,initial
+customers,row#1178,phone,missing phone number,initial
+customers,row#1183 (Donna generated),email,null email,initial
+customers,row#1198,phone,missing phone number,initial
+customers,row#1215,phone,missing phone number,initial
+customers,row#1221,phone,missing phone number,initial
+customers,row#1232,phone,missing phone number,initial
+customers,row#1236,phone,missing phone number,initial
+customers,row#1237 (Daniel generated),email,null email,initial
+customers,row#1252,phone,missing phone number,initial
+customers,row#1265,phone,missing phone number,initial
+customers,row#1268 (Kim generated),email,null email,initial
+customers,row#1290,phone,missing phone number,initial
+customers,row#1300 (John generated),email,null email,initial
+customers,row#1317,phone,missing phone number,initial
+customers,row#1337 (Ebony generated),email,null email,initial
+customers,row#1337,phone,missing phone number,initial
+customers,row#1353,phone,missing phone number,initial
+customers,row#1371,phone,missing phone number,initial
+customers,row#1373,phone,missing phone number,initial
+customers,row#1392 (Alyssa generated),email,null email,initial
+customers,row#1436,phone,missing phone number,initial
+customers,row#1437,phone,missing phone number,initial
+customers,row#1445,phone,missing phone number,initial
+customers,row#1452 (Megan generated),email,null email,initial
+customers,row#1453,phone,missing phone number,initial
+customers,row#1523,phone,missing phone number,initial
+customers,row#1536,phone,missing phone number,initial
+customers,row#1549,phone,missing phone number,initial
+customers,row#1558,phone,missing phone number,initial
+customers,row#1564,phone,missing phone number,initial
+customers,row#1570,phone,missing phone number,initial
+customers,row#1579 (Philip generated),email,null email,initial
+customers,row#1587,phone,missing phone number,initial
+customers,row#1603 (Alexander generated),email,null email,initial
+customers,row#1611 (Chad generated),email,null email,initial
+customers,row#1641,phone,missing phone number,initial
+customers,row#1646,phone,missing phone number,initial
+customers,row#1658 (Sean generated),email,null email,initial
+customers,row#1677,phone,missing phone number,initial
+customers,row#1686,phone,missing phone number,initial
+customers,row#1689,phone,missing phone number,initial
+customers,row#1694,phone,missing phone number,initial
+customers,row#1699 (Nancy generated),email,null email,initial
+customers,row#1725 (Tony generated),email,null email,initial
+customers,row#1752,phone,missing phone number,initial
+customers,row#1796,phone,missing phone number,initial
+customers,row#1802,phone,missing phone number,initial
+customers,row#1808,phone,missing phone number,initial
+customers,row#1853,phone,missing phone number,initial
+customers,row#1863,phone,missing phone number,initial
+customers,row#1866,phone,missing phone number,initial
+customers,row#1872,phone,missing phone number,initial
+customers,row#1883 (Lisa generated),email,null email,initial
+customers,row#1906,phone,missing phone number,initial
+customers,row#1914 (Kelly generated),email,null email,initial
+customers,row#1937,phone,missing phone number,initial
+customers,row#1954 (Jennifer generated),email,null email,initial
+customers,row#1966 (Keith generated),email,null email,initial
+customers,row#1975,phone,missing phone number,initial
+customers,row#1976,phone,missing phone number,initial
+customers,row#1979 (Mary generated),email,null email,initial
+customers,row#2006 (Audrey generated),email,null email,initial
+customers,row#2017,phone,missing phone number,initial
+customers,row#2019,phone,missing phone number,initial
+customers,row#2027,phone,missing phone number,initial
+customers,row#2037,phone,missing phone number,initial
+customers,row#2066 (Laura generated),email,null email,initial
+customers,row#2086,phone,missing phone number,initial
+customers,row#2091 (Timothy generated),email,null email,initial
+customers,row#2093 (Katherine generated),email,null email,initial
+customers,row#2099,phone,missing phone number,initial
+customers,row#2104 (Tyler generated),email,null email,initial
+customers,row#2118,phone,missing phone number,initial
+customers,row#2121 (Rhonda generated),email,null email,initial
+customers,row#2134,phone,missing phone number,initial
+customers,row#2135,phone,missing phone number,initial
+customers,row#2143,phone,missing phone number,initial
+customers,row#2151 (Priscilla generated),email,null email,initial
+customers,row#2165,phone,missing phone number,initial
+customers,row#2169 (Adrian generated),email,null email,initial
+customers,row#2208,phone,missing phone number,initial
+customers,row#2219,phone,missing phone number,initial
+customers,row#2231,phone,missing phone number,initial
+customers,row#2239 (Kiara generated),email,null email,initial
+customers,row#2280 (Corey generated),email,null email,initial
+customers,row#2287,phone,missing phone number,initial
+customers,row#2291,phone,missing phone number,initial
+customers,row#2293,phone,missing phone number,initial
+customers,row#2294,phone,missing phone number,initial
+customers,row#2297 (Joshua generated),email,null email,initial
+customers,row#2299 (Tony generated),email,null email,initial
+customers,row#2331,phone,missing phone number,initial
+customers,row#2351,phone,missing phone number,initial
+customers,row#2353 (Mark generated),email,null email,initial
+customers,row#2364,phone,missing phone number,initial
+customers,row#2365,phone,missing phone number,initial
+customers,row#2369,phone,missing phone number,initial
+customers,row#2381,phone,missing phone number,initial
+customers,row#2398,phone,missing phone number,initial
+customers,row#2405 (Bryan generated),email,null email,initial
+customers,row#2419 (Sierra generated),email,null email,initial
+customers,row#2435 (Sherri generated),email,null email,initial
+customers,row#2439 (Wayne generated),email,null email,initial
+customers,row#2445,phone,missing phone number,initial
+customers,row#2463,phone,missing phone number,initial
+customers,row#2505 (Stephanie generated),email,null email,initial
+customers,row#2506,phone,missing phone number,initial
+customers,row#2511 (Duane generated),email,null email,initial
+customers,row#2519,phone,missing phone number,initial
+customers,row#2522,phone,missing phone number,initial
+customers,row#2526 (Lisa generated),email,null email,initial
+customers,row#2531,phone,missing phone number,initial
+customers,row#2532,phone,missing phone number,initial
+customers,row#2552 (Lisa generated),email,null email,initial
+customers,row#2572,phone,missing phone number,initial
+customers,row#2574 (Melissa generated),email,null email,initial
+customers,row#2583,phone,missing phone number,initial
+customers,row#2595 (Gregory generated),email,null email,initial
+customers,row#2608 (Garrett generated),email,null email,initial
+customers,row#2610,phone,missing phone number,initial
+customers,row#2622,phone,missing phone number,initial
+customers,row#2623 (Luke generated),email,null email,initial
+customers,row#2626,phone,missing phone number,initial
+customers,row#2647,phone,missing phone number,initial
+customers,row#2654,phone,missing phone number,initial
+customers,row#2656 (Jillian generated),email,null email,initial
+customers,row#2673 (Adam generated),email,null email,initial
+customers,row#2675 (Steven generated),email,null email,initial
+customers,row#2676,phone,missing phone number,initial
+customers,row#2723 (Michelle generated),email,null email,initial
+customers,row#2728 (Aaron generated),email,null email,initial
+customers,row#2731 (Kimberly generated),email,null email,initial
+customers,row#2736,phone,missing phone number,initial
+customers,row#2738,phone,missing phone number,initial
+customers,row#2750 (Martha generated),email,null email,initial
+customers,row#2757,phone,missing phone number,initial
+customers,row#2776 (Amber generated),email,null email,initial
+customers,row#2779,phone,missing phone number,initial
+customers,row#2788 (Mark generated),email,null email,initial
+customers,row#2794 (Kenneth generated),email,null email,initial
+customers,row#2804 (Diana generated),email,null email,initial
+customers,row#2821,phone,missing phone number,initial
+customers,row#2856 (Ricardo generated),email,null email,initial
+customers,row#2865,phone,missing phone number,initial
+customers,row#2867,phone,missing phone number,initial
+customers,row#2900 (Jennifer generated),email,null email,initial
+customers,row#2929,phone,missing phone number,initial
+customers,row#2932 (Kevin generated),email,null email,initial
+customers,row#2933,phone,missing phone number,initial
+customers,row#2941 (Amanda generated),email,null email,initial
+customers,row#2978,phone,missing phone number,initial
+customers,row#2985,phone,missing phone number,initial
+customers,row#2988,phone,missing phone number,initial
+customers,row#3005,phone,missing phone number,initial
+customers,row#3006 (Patrick generated),email,null email,initial
+customers,row#3034 (Annette generated),email,null email,initial
+customers,row#3045 (Bruce generated),email,null email,initial
+customers,row#3069 (Brandon generated),email,null email,initial
+customers,row#3069,phone,missing phone number,initial
+customers,row#3079 (Taylor generated),email,null email,initial
+customers,row#3079,phone,missing phone number,initial
+customers,row#3087,phone,missing phone number,initial
+customers,row#3088,phone,missing phone number,initial
+customers,row#3147,phone,missing phone number,initial
+customers,row#3159,phone,missing phone number,initial
+customers,row#3177,phone,missing phone number,initial
+customers,row#3182,phone,missing phone number,initial
+customers,row#3193,phone,missing phone number,initial
+customers,row#3195,phone,missing phone number,initial
+customers,row#3206,phone,missing phone number,initial
+customers,row#3214,phone,missing phone number,initial
+customers,row#3218 (Kyle generated),email,null email,initial
+customers,row#3221 (Michael generated),email,null email,initial
+customers,row#3226,phone,missing phone number,initial
+customers,row#3228,phone,missing phone number,initial
+customers,row#3279,phone,missing phone number,initial
+customers,row#3292 (Roberta generated),email,null email,initial
+customers,row#3294 (Sandra generated),email,null email,initial
+customers,row#3298 (Elizabeth generated),email,null email,initial
+customers,row#3304 (Pamela generated),email,null email,initial
+customers,row#3304,phone,missing phone number,initial
+customers,row#3318 (Christopher generated),email,null email,initial
+customers,row#3326,phone,missing phone number,initial
+customers,row#3347 (Adrian generated),email,null email,initial
+customers,row#3351,phone,missing phone number,initial
+customers,row#3365 (Michael generated),email,null email,initial
+customers,row#3367,phone,missing phone number,initial
+customers,row#3391 (Charles generated),email,null email,initial
+customers,row#3393,phone,missing phone number,initial
+customers,row#3403,phone,missing phone number,initial
+customers,row#3406,phone,missing phone number,initial
+customers,row#3411,phone,missing phone number,initial
+customers,row#3412 (Kimberly generated),email,null email,initial
+customers,row#3419,phone,missing phone number,initial
+customers,row#3424 (Brittany generated),email,null email,initial
+customers,row#3444,phone,missing phone number,initial
+customers,row#3445 (Ryan generated),email,null email,initial
+customers,row#3456,phone,missing phone number,initial
+customers,row#3471 (Julie generated),email,null email,initial
+customers,row#3511 (Sean generated),email,null email,initial
+customers,row#3549,phone,missing phone number,initial
+customers,row#3561,phone,missing phone number,initial
+customers,row#3567 (Jeffery generated),email,null email,initial
+customers,row#3571 (Nicole generated),email,null email,initial
+customers,row#3576 (Michael generated),email,null email,initial
+customers,row#3588,phone,missing phone number,initial
+customers,row#3590 (Kari generated),email,null email,initial
+customers,row#3591,phone,missing phone number,initial
+customers,row#3603,phone,missing phone number,initial
+customers,row#3619,phone,missing phone number,initial
+customers,row#3629 (Brian generated),email,null email,initial
+customers,row#3643,phone,missing phone number,initial
+customers,row#3646,phone,missing phone number,initial
+customers,row#3658,phone,missing phone number,initial
+customers,row#3678 (Christina generated),email,null email,initial
+customers,row#3683,phone,missing phone number,initial
+customers,row#3693,phone,missing phone number,initial
+customers,row#3708 (Cindy generated),email,null email,initial
+customers,row#3711,phone,missing phone number,initial
+customers,row#3722,phone,missing phone number,initial
+customers,row#3727,phone,missing phone number,initial
+customers,row#3755 (Steven generated),email,null email,initial
+customers,row#3758,phone,missing phone number,initial
+customers,row#3780 (Andrew generated),email,null email,initial
+customers,row#3791,phone,missing phone number,initial
+customers,row#3798,phone,missing phone number,initial
+customers,row#3809 (Erika generated),email,null email,initial
+customers,row#3810 (David generated),email,null email,initial
+customers,row#3812 (Dana generated),email,null email,initial
+customers,row#3817,phone,missing phone number,initial
+customers,row#3819,phone,missing phone number,initial
+customers,row#3851,phone,missing phone number,initial
+customers,row#3852,phone,missing phone number,initial
+customers,row#3855,phone,missing phone number,initial
+customers,row#3876,phone,missing phone number,initial
+customers,row#3889 (Patrick generated),email,null email,initial
+customers,row#3893 (Veronica generated),email,null email,initial
+customers,row#3894,phone,missing phone number,initial
+customers,row#3897,phone,missing phone number,initial
+customers,row#3904,phone,missing phone number,initial
+customers,row#3906 (Kiara generated),email,null email,initial
+customers,row#3923 (Jimmy generated),email,null email,initial
+customers,row#3923,phone,missing phone number,initial
+customers,row#3961,phone,missing phone number,initial
+customers,row#3972,phone,missing phone number,initial
+customers,row#3977,phone,missing phone number,initial
+customers,row#3980,phone,missing phone number,initial
+customers,row#3991 (Jessica generated),email,null email,initial
+customers,row#4011 (Samantha generated),email,null email,initial
+customers,row#4026,phone,missing phone number,initial
+customers,row#4053,phone,missing phone number,initial
+customers,row#4059,phone,missing phone number,initial
+customers,row#4082 (Gerald generated),email,null email,initial
+customers,row#4102 (Sean generated),email,null email,initial
+customers,row#4111,phone,missing phone number,initial
+customers,row#4118,phone,missing phone number,initial
+customers,row#4130,phone,missing phone number,initial
+customers,row#4133,phone,missing phone number,initial
+customers,row#4134 (James generated),email,null email,initial
+customers,row#4146 (Amanda generated),email,null email,initial
+customers,row#4151,phone,missing phone number,initial
+customers,row#4156,phone,missing phone number,initial
+customers,row#4157,phone,missing phone number,initial
+customers,row#4184 (Dylan generated),email,null email,initial
+customers,row#4187,phone,missing phone number,initial
+customers,row#4192 (Norma generated),email,null email,initial
+customers,row#4201,phone,missing phone number,initial
+customers,row#4248 (Tony generated),email,null email,initial
+customers,row#4256,phone,missing phone number,initial
+customers,row#4264,phone,missing phone number,initial
+customers,row#4298 (Joan generated),email,null email,initial
+customers,row#4308,phone,missing phone number,initial
+customers,row#4331 (Karen generated),email,null email,initial
+customers,row#4336,phone,missing phone number,initial
+customers,row#4354,phone,missing phone number,initial
+customers,row#4367,phone,missing phone number,initial
+customers,row#4383,phone,missing phone number,initial
+customers,row#4393,phone,missing phone number,initial
+customers,row#4408,phone,missing phone number,initial
+customers,row#4410 (Jennifer generated),email,null email,initial
+customers,row#4421 (Emily generated),email,null email,initial
+customers,row#4422,phone,missing phone number,initial
+customers,row#4443,phone,missing phone number,initial
+customers,row#4451,phone,missing phone number,initial
+customers,row#4457,phone,missing phone number,initial
+customers,row#4468,phone,missing phone number,initial
+customers,row#4506,phone,missing phone number,initial
+customers,row#4518,phone,missing phone number,initial
+customers,row#4528 (Bridget generated),email,null email,initial
+customers,row#4548 (Jeanette generated),email,null email,initial
+customers,row#4564 (Stacy generated),email,null email,initial
+customers,row#4576,phone,missing phone number,initial
+customers,row#4594,phone,missing phone number,initial
+customers,row#4602 (Kathleen generated),email,null email,initial
+customers,row#4603 (Christina generated),email,null email,initial
+customers,row#4611,phone,missing phone number,initial
+customers,row#4612 (Jennifer generated),email,null email,initial
+customers,row#4615,phone,missing phone number,initial
+customers,row#4626,phone,missing phone number,initial
+customers,row#4637,phone,missing phone number,initial
+customers,row#4656,phone,missing phone number,initial
+customers,row#4665 (Melissa generated),email,null email,initial
+customers,row#4673,phone,missing phone number,initial
+customers,row#4677,phone,missing phone number,initial
+customers,row#4679 (Melissa generated),email,null email,initial
+customers,row#4710,phone,missing phone number,initial
+customers,row#4711,phone,missing phone number,initial
+customers,row#4722,phone,missing phone number,initial
+customers,row#4752,phone,missing phone number,initial
+customers,row#4753,phone,missing phone number,initial
+customers,row#4755,phone,missing phone number,initial
+customers,row#4761 (Kelly generated),email,null email,initial
+customers,row#4797 (Joseph generated),email,null email,initial
+customers,row#4815,phone,missing phone number,initial
+customers,row#4839 (Kevin generated),email,null email,initial
+customers,row#4865 (Shelia generated),email,null email,initial
+customers,row#4875,phone,missing phone number,initial
+customers,row#4895 (Kelly generated),email,null email,initial
+customers,row#4910,phone,missing phone number,initial
+customers,row#4962 (James generated),email,null email,initial
+customers,row#4966 (Barbara generated),email,null email,initial
+customers,row#4968 (Ashley generated),email,null email,initial
+customers,row#4973,phone,missing phone number,initial
+customers,row#4979 (Kendra generated),email,null email,initial
+customers,row#4980 (Christina generated),email,null email,initial
+customers,row#5011,phone,missing phone number,initial
+customers,row#5020 (Kristie generated),email,null email,initial
+customers,row#5020,phone,missing phone number,initial
+customers,row#5048,phone,missing phone number,initial
+customers,row#5066,phone,missing phone number,initial
+customers,row#5090 (Thomas generated),email,null email,initial
+customers,row#5147 (Justin generated),email,null email,initial
+customers,row#5155,phone,missing phone number,initial
+customers,row#5157,phone,missing phone number,initial
+customers,row#5159,phone,missing phone number,initial
+customers,row#5183,phone,missing phone number,initial
+customers,row#5186,phone,missing phone number,initial
+customers,row#5202,phone,missing phone number,initial
+customers,row#5224,phone,missing phone number,initial
+customers,row#5231 (Andrea generated),email,null email,initial
+customers,row#5253,phone,missing phone number,initial
+customers,row#5271,phone,missing phone number,initial
+customers,row#5291 (Ashley generated),email,null email,initial
+customers,row#5297 (Cassandra generated),email,null email,initial
+customers,row#5307,phone,missing phone number,initial
+customers,row#5316,phone,missing phone number,initial
+customers,row#5366,phone,missing phone number,initial
+customers,row#5371 (Deborah generated),email,null email,initial
+customers,row#5377,phone,missing phone number,initial
+customers,row#5391,phone,missing phone number,initial
+customers,row#5397,phone,missing phone number,initial
+customers,row#5399 (Nicholas generated),email,null email,initial
+customers,row#5419 (Rebecca generated),email,null email,initial
+customers,row#5421 (Sergio generated),email,null email,initial
+customers,row#5434,phone,missing phone number,initial
+customers,row#5443 (Michael generated),email,null email,initial
+customers,row#5452,phone,missing phone number,initial
+customers,row#5467 (Suzanne generated),email,null email,initial
+customers,row#5467,phone,missing phone number,initial
+customers,row#5494,phone,missing phone number,initial
+customers,row#5545,phone,missing phone number,initial
+customers,row#5574 (Joseph generated),email,null email,initial
+customers,row#5597,phone,missing phone number,initial
+customers,row#5620 (Bryan generated),email,null email,initial
+customers,row#5629 (Julie generated),email,null email,initial
+customers,row#5683,phone,missing phone number,initial
+customers,row#5702 (Tammy generated),email,null email,initial
+customers,row#5702,phone,missing phone number,initial
+customers,row#5704 (Matthew generated),email,null email,initial
+customers,row#5737,phone,missing phone number,initial
+customers,row#5758,phone,missing phone number,initial
+customers,row#5763 (Carrie generated),email,null email,initial
+customers,row#5770,phone,missing phone number,initial
+customers,row#5779 (Lori generated),email,null email,initial
+customers,row#5793 (Natalie generated),email,null email,initial
+customers,row#5797,phone,missing phone number,initial
+customers,row#5815,phone,missing phone number,initial
+customers,row#5855,phone,missing phone number,initial
+customers,row#5856,phone,missing phone number,initial
+customers,row#5871,phone,missing phone number,initial
+customers,row#5882,phone,missing phone number,initial
+customers,row#5884,phone,missing phone number,initial
+customers,row#5895,phone,missing phone number,initial
+customers,row#5896,phone,missing phone number,initial
+customers,row#5905,phone,missing phone number,initial
+customers,row#5922,phone,missing phone number,initial
+customers,row#5937 (Teresa generated),email,null email,initial
+customers,row#5942,phone,missing phone number,initial
+customers,row#5946,phone,missing phone number,initial
+customers,row#5955,phone,missing phone number,initial
+customers,row#6001 (Molly generated),email,null email,initial
+customers,row#6015 (Natalie generated),email,null email,initial
+customers,row#6020,phone,missing phone number,initial
+customers,row#6052,phone,missing phone number,initial
+customers,row#6055,phone,missing phone number,initial
+customers,row#6080,phone,missing phone number,initial
+customers,row#6092 (Caitlin generated),email,null email,initial
+customers,row#6095 (Ronald generated),email,null email,initial
+customers,row#6096,phone,missing phone number,initial
+customers,row#6126 (James generated),email,null email,initial
+customers,row#6145 (Michelle generated),email,null email,initial
+customers,row#6172 (Brian generated),email,null email,initial
+customers,row#6197,phone,missing phone number,initial
+customers,row#6209,phone,missing phone number,initial
+customers,row#6215,phone,missing phone number,initial
+customers,row#6223,phone,missing phone number,initial
+customers,row#6237,phone,missing phone number,initial
+customers,row#6244,phone,missing phone number,initial
+customers,row#6266,phone,missing phone number,initial
+customers,row#6277,phone,missing phone number,initial
+customers,row#6279,phone,missing phone number,initial
+customers,row#6296,phone,missing phone number,initial
+customers,row#6297,phone,missing phone number,initial
+customers,row#6298 (Vincent generated),email,null email,initial
+customers,row#6301 (Matthew generated),email,null email,initial
+customers,row#6357,phone,missing phone number,initial
+customers,row#6365 (Allison generated),email,null email,initial
+customers,row#6379 (Robert generated),email,null email,initial
+customers,row#6385,phone,missing phone number,initial
+customers,row#6398 (Jason generated),email,null email,initial
+customers,row#6415,phone,missing phone number,initial
+customers,row#6425,phone,missing phone number,initial
+customers,row#6435,phone,missing phone number,initial
+customers,row#6446 (Mason generated),email,null email,initial
+customers,row#6461,phone,missing phone number,initial
+customers,row#6463 (Drew generated),email,null email,initial
+customers,row#6482,phone,missing phone number,initial
+customers,row#6488,phone,missing phone number,initial
+customers,row#6492 (Rebecca generated),email,null email,initial
+customers,row#6509 (Alyssa generated),email,null email,initial
+customers,row#6513,phone,missing phone number,initial
+customers,row#6530,phone,missing phone number,initial
+customers,row#6537 (Crystal generated),email,null email,initial
+customers,row#6557,phone,missing phone number,initial
+customers,row#6568,phone,missing phone number,initial
+customers,row#6623,phone,missing phone number,initial
+customers,row#6628,phone,missing phone number,initial
+customers,row#6634,phone,missing phone number,initial
+customers,row#6650,phone,missing phone number,initial
+customers,row#6675,phone,missing phone number,initial
+customers,row#6677,phone,missing phone number,initial
+customers,row#6679,phone,missing phone number,initial
+customers,row#6690 (Gregory generated),email,null email,initial
+customers,row#6693 (Amanda generated),email,null email,initial
+customers,row#6697,phone,missing phone number,initial
+customers,row#6699,phone,missing phone number,initial
+customers,row#6751 (Austin generated),email,null email,initial
+customers,row#6755,phone,missing phone number,initial
+customers,row#6758,phone,missing phone number,initial
+customers,row#6773,phone,missing phone number,initial
+customers,row#6798,phone,missing phone number,initial
+customers,row#6801,phone,missing phone number,initial
+customers,row#6802 (Daniel generated),email,null email,initial
+customers,row#6802,phone,missing phone number,initial
+customers,row#6824,phone,missing phone number,initial
+customers,row#6833,phone,missing phone number,initial
+customers,row#6842 (Alexandra generated),email,null email,initial
+customers,row#6854 (Megan generated),email,null email,initial
+customers,row#6864,phone,missing phone number,initial
+customers,row#6867,phone,missing phone number,initial
+customers,row#6877 (Daniel generated),email,null email,initial
+customers,row#6881 (Darlene generated),email,null email,initial
+customers,row#6907 (Alan generated),email,null email,initial
+customers,row#6909,phone,missing phone number,initial
+customers,row#6922 (Mark generated),email,null email,initial
+customers,row#6926 (Angela generated),email,null email,initial
+customers,row#6927,phone,missing phone number,initial
+customers,row#6962,phone,missing phone number,initial
+customers,row#6965 (Colleen generated),email,null email,initial
+customers,row#6971,phone,missing phone number,initial
+customers,row#6978 (Calvin generated),email,null email,initial
+customers,row#6980,phone,missing phone number,initial
+customers,row#7008 (Paul generated),email,null email,initial
+customers,row#7008,phone,missing phone number,initial
+customers,row#7016,phone,missing phone number,initial
+customers,row#7025 (Heather generated),email,null email,initial
+customers,row#7033,phone,missing phone number,initial
+customers,row#7047,phone,missing phone number,initial
+customers,row#7052 (Sara generated),email,null email,initial
+customers,row#7052,phone,missing phone number,initial
+customers,row#7068,phone,missing phone number,initial
+customers,row#7081,phone,missing phone number,initial
+customers,row#7084 (Randy generated),email,null email,initial
+customers,row#7105 (David generated),email,null email,initial
+customers,row#7124 (Leslie generated),email,null email,initial
+customers,row#7125 (Sandra generated),email,null email,initial
+customers,row#7135,phone,missing phone number,initial
+customers,row#7137,phone,missing phone number,initial
+customers,row#7167 (Denise generated),email,null email,initial
+customers,row#7173,phone,missing phone number,initial
+customers,row#7178,phone,missing phone number,initial
+customers,row#7196 (Sara generated),email,null email,initial
+customers,row#7198 (Tammie generated),email,null email,initial
+customers,row#7198,phone,missing phone number,initial
+customers,row#7205,phone,missing phone number,initial
+customers,row#7235,phone,missing phone number,initial
+customers,row#7292,phone,missing phone number,initial
+customers,row#7293 (James generated),email,null email,initial
+customers,row#7298,phone,missing phone number,initial
+customers,row#7300,phone,missing phone number,initial
+customers,row#7301,phone,missing phone number,initial
+customers,row#7308,phone,missing phone number,initial
+customers,row#7328 (Emily generated),email,null email,initial
+customers,row#7329,phone,missing phone number,initial
+customers,row#7330,phone,missing phone number,initial
+customers,row#7332 (Erica generated),email,null email,initial
+customers,row#7338,phone,missing phone number,initial
+customers,row#7339 (Jack generated),email,null email,initial
+customers,row#7357 (Kathy generated),email,null email,initial
+customers,row#7388 (Julie generated),email,null email,initial
+customers,row#7396 (Andrew generated),email,null email,initial
+customers,row#7406,phone,missing phone number,initial
+customers,row#7412,phone,missing phone number,initial
+customers,row#7416,phone,missing phone number,initial
+customers,row#7422,phone,missing phone number,initial
+customers,row#7424,phone,missing phone number,initial
+customers,row#7455,phone,missing phone number,initial
+customers,row#7463,phone,missing phone number,initial
+customers,row#7469,phone,missing phone number,initial
+customers,row#7485,phone,missing phone number,initial
+customers,row#7499 (Maria generated),email,null email,initial
+customers,row#7517,phone,missing phone number,initial
+customers,row#7520 (Kaitlyn generated),email,null email,initial
+customers,row#7525,phone,missing phone number,initial
+customers,row#7531,phone,missing phone number,initial
+customers,row#7534 (George generated),email,null email,initial
+customers,row#7538,phone,missing phone number,initial
+customers,row#7539 (John generated),email,null email,initial
+customers,row#7546,phone,missing phone number,initial
+customers,row#7584 (Jeff generated),email,null email,initial
+customers,row#7592,phone,missing phone number,initial
+customers,row#7597,phone,missing phone number,initial
+customers,row#7602,phone,missing phone number,initial
+customers,row#7630,phone,missing phone number,initial
+customers,row#7684,phone,missing phone number,initial
+customers,row#7685,phone,missing phone number,initial
+customers,row#7695 (Debra generated),email,null email,initial
+customers,row#7699,phone,missing phone number,initial
+customers,row#7706,phone,missing phone number,initial
+customers,row#7710,phone,missing phone number,initial
+customers,row#7712 (Brenda generated),email,null email,initial
+customers,row#7717,phone,missing phone number,initial
+customers,row#7751 (Elizabeth generated),email,null email,initial
+customers,row#7758,phone,missing phone number,initial
+customers,row#7804 (Jonathan generated),email,null email,initial
+customers,row#7820,phone,missing phone number,initial
+customers,row#7827 (Amanda generated),email,null email,initial
+customers,row#7835 (Donna generated),email,null email,initial
+customers,row#7845,phone,missing phone number,initial
+customers,row#7865 (George generated),email,null email,initial
+customers,row#7872 (Richard generated),email,null email,initial
+customers,row#7877,phone,missing phone number,initial
+customers,row#7890,phone,missing phone number,initial
+customers,row#7904 (Kendra generated),email,null email,initial
+customers,row#7905,phone,missing phone number,initial
+customers,row#7914 (Allison generated),email,null email,initial
+customers,row#7933,phone,missing phone number,initial
+customers,row#7936,phone,missing phone number,initial
+customers,row#7957 (Andrew generated),email,null email,initial
+customers,row#7967 (Allen generated),email,null email,initial
+customers,row#7975,phone,missing phone number,initial
+customers,row#8004 (David generated),email,null email,initial
+customers,row#8005,phone,missing phone number,initial
+customers,row#8016 (Travis generated),email,null email,initial
+customers,row#8065,phone,missing phone number,initial
+customers,row#8080,phone,missing phone number,initial
+customers,row#8082 (Eric generated),email,null email,initial
+customers,row#8086,phone,missing phone number,initial
+customers,row#8093 (Tyler generated),email,null email,initial
+customers,row#8102 (Angela generated),email,null email,initial
+customers,row#8129 (Susan generated),email,null email,initial
+customers,row#8132 (Brett generated),email,null email,initial
+customers,row#8139 (Wayne generated),email,null email,initial
+customers,row#8158 (Sydney generated),email,null email,initial
+customers,row#8161,phone,missing phone number,initial
+customers,row#8163 (Nicole generated),email,null email,initial
+customers,row#8178 (Elizabeth generated),email,null email,initial
+customers,row#8181,phone,missing phone number,initial
+customers,row#8188,phone,missing phone number,initial
+customers,row#8189,phone,missing phone number,initial
+customers,row#8200 (Joseph generated),email,null email,initial
+customers,row#8203,phone,missing phone number,initial
+customers,row#8217,phone,missing phone number,initial
+customers,row#8234,phone,missing phone number,initial
+customers,row#8237,phone,missing phone number,initial
+customers,row#8242 (Julie generated),email,null email,initial
+customers,row#8261,phone,missing phone number,initial
+customers,row#8263 (Angela generated),email,null email,initial
+customers,row#8263,phone,missing phone number,initial
+customers,row#8265 (Gary generated),email,null email,initial
+customers,row#8357 (Brittany generated),email,null email,initial
+customers,row#8365 (Michael generated),email,null email,initial
+customers,row#8366,phone,missing phone number,initial
+customers,row#8378,phone,missing phone number,initial
+customers,row#8387,phone,missing phone number,initial
+customers,row#8391,phone,missing phone number,initial
+customers,row#8392 (Jacob generated),email,null email,initial
+customers,row#8401,phone,missing phone number,initial
+customers,row#8405,phone,missing phone number,initial
+customers,row#8429 (Patricia generated),email,null email,initial
+customers,row#8443,phone,missing phone number,initial
+customers,row#8466 (Cheryl generated),email,null email,initial
+customers,row#8473,phone,missing phone number,initial
+customers,row#8478 (James generated),email,null email,initial
+customers,row#8479,phone,missing phone number,initial
+customers,row#8493,phone,missing phone number,initial
+customers,row#8502 (Alan generated),email,null email,initial
+customers,row#8507,phone,missing phone number,initial
+customers,row#8522,phone,missing phone number,initial
+customers,row#8527,phone,missing phone number,initial
+customers,row#8544 (Robert generated),email,null email,initial
+customers,row#8556,phone,missing phone number,initial
+customers,row#8570 (Cynthia generated),email,null email,initial
+customers,row#8589 (Travis generated),email,null email,initial
+customers,row#8596,phone,missing phone number,initial
+customers,row#8604 (Frank generated),email,null email,initial
+customers,row#8604,phone,missing phone number,initial
+customers,row#8614 (Tyler generated),email,null email,initial
+customers,row#8616,phone,missing phone number,initial
+customers,row#8619,phone,missing phone number,initial
+customers,row#8637,phone,missing phone number,initial
+customers,row#8661 (Jessica generated),email,null email,initial
+customers,row#8664 (Molly generated),email,null email,initial
+customers,row#8666 (Christy generated),email,null email,initial
+customers,row#8699 (Thomas generated),email,null email,initial
+customers,row#8722 (Karen generated),email,null email,initial
+customers,row#8723 (Ryan generated),email,null email,initial
+customers,row#8745,phone,missing phone number,initial
+customers,row#8753 (Manuel generated),email,null email,initial
+customers,row#8756 (Eric generated),email,null email,initial
+customers,row#8773,phone,missing phone number,initial
+customers,row#8774,phone,missing phone number,initial
+customers,row#8775 (Phillip generated),email,null email,initial
+customers,row#8825 (David generated),email,null email,initial
+customers,row#8828,phone,missing phone number,initial
+customers,row#8833 (Raymond generated),email,null email,initial
+customers,row#8841,phone,missing phone number,initial
+customers,row#8843,phone,missing phone number,initial
+customers,row#8851,phone,missing phone number,initial
+customers,row#8852,phone,missing phone number,initial
+customers,row#8888,phone,missing phone number,initial
+customers,row#8892 (Phillip generated),email,null email,initial
+customers,row#8894,phone,missing phone number,initial
+customers,row#8903,phone,missing phone number,initial
+customers,row#8904,phone,missing phone number,initial
+customers,row#8906 (Matthew generated),email,null email,initial
+customers,row#8927,phone,missing phone number,initial
+customers,row#8941 (Katelyn generated),email,null email,initial
+customers,row#8954,phone,missing phone number,initial
+customers,row#8959 (John generated),email,null email,initial
+customers,row#8971,phone,missing phone number,initial
+customers,row#8988 (Wesley generated),email,null email,initial
+customers,row#9006,phone,missing phone number,initial
+customers,row#9025,phone,missing phone number,initial
+customers,row#9031 (Cindy generated),email,null email,initial
+customers,row#9074,phone,missing phone number,initial
+customers,row#9078,phone,missing phone number,initial
+customers,row#9092,phone,missing phone number,initial
+customers,row#9096 (Stephen generated),email,null email,initial
+customers,row#9104,phone,missing phone number,initial
+customers,row#9116,phone,missing phone number,initial
+customers,row#9142 (John generated),email,null email,initial
+customers,row#9180,phone,missing phone number,initial
+customers,row#9182 (Christopher generated),email,null email,initial
+customers,row#9203,phone,missing phone number,initial
+customers,row#9213,phone,missing phone number,initial
+customers,row#9222,phone,missing phone number,initial
+customers,row#9232 (Julie generated),email,null email,initial
+customers,row#9232,phone,missing phone number,initial
+customers,row#9233,phone,missing phone number,initial
+customers,row#9240,phone,missing phone number,initial
+customers,row#9244 (Michael generated),email,null email,initial
+customers,row#9258 (Kelsey generated),email,null email,initial
+customers,row#9266,phone,missing phone number,initial
+customers,row#9285,phone,missing phone number,initial
+customers,row#9292,phone,missing phone number,initial
+customers,row#9294 (Diana generated),email,null email,initial
+customers,row#9318,phone,missing phone number,initial
+customers,row#9320 (Gabriela generated),email,null email,initial
+customers,row#9347 (John generated),email,null email,initial
+customers,row#9357,phone,missing phone number,initial
+customers,row#9359,phone,missing phone number,initial
+customers,row#9372 (Thomas generated),email,null email,initial
+customers,row#9381,phone,missing phone number,initial
+customers,row#9387,phone,missing phone number,initial
+customers,row#9409,phone,missing phone number,initial
+customers,row#9423,phone,missing phone number,initial
+customers,row#9428 (Austin generated),email,null email,initial
+customers,row#9429 (Julia generated),email,null email,initial
+customers,row#9461 (Jeffrey generated),email,null email,initial
+customers,row#9463,phone,missing phone number,initial
+customers,row#9465,phone,missing phone number,initial
+customers,row#9484,phone,missing phone number,initial
+customers,row#9498,phone,missing phone number,initial
+customers,row#9502,phone,missing phone number,initial
+customers,row#9513,phone,missing phone number,initial
+customers,row#9525 (Victor generated),email,null email,initial
+customers,row#9526 (Alyssa generated),email,null email,initial
+customers,row#9528 (Justin generated),email,null email,initial
+customers,row#9546 (Megan generated),email,null email,initial
+customers,row#9548,phone,missing phone number,initial
+customers,row#9587 (David generated),email,null email,initial
+customers,row#9594,phone,missing phone number,initial
+customers,row#9597 (Lisa generated),email,null email,initial
+customers,row#9602,phone,missing phone number,initial
+customers,row#9604 (Michael generated),email,null email,initial
+customers,row#9614,phone,missing phone number,initial
+customers,row#9620 (Joshua generated),email,null email,initial
+customers,row#9630,phone,missing phone number,initial
+customers,row#9650 (Bryan generated),email,null email,initial
+customers,row#9650,phone,missing phone number,initial
+customers,row#9652,phone,missing phone number,initial
+customers,row#9656 (Tony generated),email,null email,initial
+customers,row#9658,phone,missing phone number,initial
+customers,row#9671,phone,missing phone number,initial
+customers,row#9676,phone,missing phone number,initial
+customers,row#9677,phone,missing phone number,initial
+customers,row#9708,phone,missing phone number,initial
+customers,row#9714 (Katelyn generated),email,null email,initial
+customers,row#9729,phone,missing phone number,initial
+customers,row#9732 (Michael generated),email,null email,initial
+customers,row#9732,phone,missing phone number,initial
+customers,row#9745,phone,missing phone number,initial
+customers,row#9758 (Jaime generated),email,null email,initial
+customers,row#9778 (Angel generated),email,null email,initial
+customers,row#9809,phone,missing phone number,initial
+customers,row#9823 (Barry generated),email,null email,initial
+customers,row#9829,phone,missing phone number,initial
+customers,row#9839,phone,missing phone number,initial
+customers,row#9867,phone,missing phone number,initial
+customers,row#9882,phone,missing phone number,initial
+customers,row#9897,phone,missing phone number,initial
+customers,row#9898,phone,missing phone number,initial
+customers,row#9923,phone,missing phone number,initial
+customers,row#9974 (Anthony generated),email,null email,initial
+customers,row#9975 (Mark generated),email,null email,initial
+customers,row#9979,phone,missing phone number,initial
+customers,row#9994 (Jonathan generated),email,null email,initial
+customers,row#9996 (Angela generated),email,null email,initial
+products,row#33,is_active,marked out-of-stock (inactive),initial
+products,row#49,unit_price,negative price,initial
+products,row#63,unit_price,negative price,initial
+products,row#70,is_active,marked out-of-stock (inactive),initial
+products,row#80,is_active,marked out-of-stock (inactive),initial
+products,row#100,is_active,marked out-of-stock (inactive),initial
+products,row#136,is_active,marked out-of-stock (inactive),initial
+products,row#166,unit_cost,negative cost,initial
+products,row#166,unit_price,negative price,initial
+products,row#169,is_active,marked out-of-stock (inactive),initial
+products,row#200,is_active,marked out-of-stock (inactive),initial
+products,row#258,is_active,marked out-of-stock (inactive),initial
+products,row#282,is_active,marked out-of-stock (inactive),initial
+products,row#293,is_active,marked out-of-stock (inactive),initial
+products,row#330,unit_cost,negative cost,initial
+products,row#330,is_active,marked out-of-stock (inactive),initial
+products,row#359,unit_price,negative price,initial
+products,row#391,unit_price,negative price,initial
+products,row#419,is_active,marked out-of-stock (inactive),initial
+products,row#437,unit_price,negative price,initial
+products,row#440,is_active,marked out-of-stock (inactive),initial
+products,row#454,unit_price,negative price,initial
+products,row#471,is_active,marked out-of-stock (inactive),initial
+products,row#497,unit_price,negative price,initial
+products,row#502,is_active,marked out-of-stock (inactive),initial
+products,row#534,is_active,marked out-of-stock (inactive),initial
+products,row#562,unit_cost,negative cost,initial
+products,row#563,is_active,marked out-of-stock (inactive),initial
+products,row#597,is_active,marked out-of-stock (inactive),initial
+products,row#615,is_active,marked out-of-stock (inactive),initial
+products,row#646,unit_cost,negative cost,initial
+products,row#670,unit_cost,negative cost,initial
+products,row#690,unit_cost,negative cost,initial
+products,row#697,is_active,marked out-of-stock (inactive),initial
+products,row#700,is_active,marked out-of-stock (inactive),initial
+products,row#725,unit_price,negative price,initial
+products,row#790,is_active,marked out-of-stock (inactive),initial
+products,row#836,unit_cost,negative cost,initial
+products,row#854,unit_cost,negative cost,initial
+products,row#865,unit_price,negative price,initial
+products,row#885,unit_cost,negative cost,initial
+products,row#915,unit_cost,negative cost,initial
+products,row#958,is_active,marked out-of-stock (inactive),initial
+products,row#986,is_active,marked out-of-stock (inactive),initial
+products,row#1047,is_active,marked out-of-stock (inactive),initial
+products,row#1069,unit_price,negative price,initial
+products,row#1104,is_active,marked out-of-stock (inactive),initial
+products,row#1145,unit_price,negative price,initial
+products,row#1151,is_active,marked out-of-stock (inactive),initial
+products,row#1157,is_active,marked out-of-stock (inactive),initial
+products,row#1190,is_active,marked out-of-stock (inactive),initial
+products,row#1208,is_active,marked out-of-stock (inactive),initial
+products,row#1228,unit_price,negative price,initial
+products,row#1243,is_active,marked out-of-stock (inactive),initial
+products,row#1245,unit_price,negative price,initial
+products,row#1257,is_active,marked out-of-stock (inactive),initial
+products,row#1270,unit_cost,negative cost,initial
+products,row#1285,is_active,marked out-of-stock (inactive),initial
+products,row#1303,is_active,marked out-of-stock (inactive),initial
+products,row#1317,unit_cost,negative cost,initial
+products,row#1332,unit_cost,negative cost,initial
+products,row#1332,is_active,marked out-of-stock (inactive),initial
+products,row#1340,is_active,marked out-of-stock (inactive),initial
+products,row#1341,unit_price,negative price,initial
+products,row#1344,is_active,marked out-of-stock (inactive),initial
+products,row#1357,unit_cost,negative cost,initial
+products,row#1365,is_active,marked out-of-stock (inactive),initial
+products,row#1451,is_active,marked out-of-stock (inactive),initial
+products,row#1455,is_active,marked out-of-stock (inactive),initial
+products,row#1524,is_active,marked out-of-stock (inactive),initial
+products,row#1543,unit_cost,negative cost,initial
+products,row#1547,is_active,marked out-of-stock (inactive),initial
+products,row#1549,is_active,marked out-of-stock (inactive),initial
+products,row#1551,unit_cost,negative cost,initial
+products,row#1557,is_active,marked out-of-stock (inactive),initial
+products,row#1570,unit_price,negative price,initial
+products,row#1584,unit_cost,negative cost,initial
+products,row#1605,unit_price,negative price,initial
+products,row#1632,is_active,marked out-of-stock (inactive),initial
+products,row#1633,is_active,marked out-of-stock (inactive),initial
+products,row#1644,is_active,marked out-of-stock (inactive),initial
+products,row#1648,unit_price,negative price,initial
+products,row#1664,is_active,marked out-of-stock (inactive),initial
+products,row#1712,is_active,marked out-of-stock (inactive),initial
+products,row#1716,unit_price,negative price,initial
+products,row#1724,is_active,marked out-of-stock (inactive),initial
+products,row#1768,is_active,marked out-of-stock (inactive),initial
+products,row#1792,unit_cost,negative cost,initial
+products,row#1804,unit_price,negative price,initial
+products,row#1820,unit_price,negative price,initial
+products,row#1828,is_active,marked out-of-stock (inactive),initial
+products,row#1832,is_active,marked out-of-stock (inactive),initial
+products,row#1852,unit_price,negative price,initial
+products,row#1858,is_active,marked out-of-stock (inactive),initial
+products,row#1863,is_active,marked out-of-stock (inactive),initial
+products,row#1871,unit_price,negative price,initial
+products,row#1894,is_active,marked out-of-stock (inactive),initial
+products,row#1930,is_active,marked out-of-stock (inactive),initial
+products,row#1950,unit_cost,negative cost,initial
+products,row#1967,unit_cost,negative cost,initial
+products,row#1986,unit_cost,negative cost,initial
+order_items,order_id~73,unit_price_at_sale,negative line price,initial
+order_items,order_id~209,unit_price_at_sale,negative line price,initial
+order_items,order_id~281,unit_price_at_sale,negative line price,initial
+order_items,order_id~300,unit_price_at_sale,negative line price,initial
+order_items,order_id~321,unit_price_at_sale,negative line price,initial
+order_items,order_id~535,unit_price_at_sale,negative line price,initial
+order_items,order_id~852,unit_price_at_sale,negative line price,initial
+order_items,order_id~919,unit_price_at_sale,negative line price,initial
+order_items,order_id~1048,unit_price_at_sale,negative line price,initial
+order_items,order_id~1116,unit_price_at_sale,negative line price,initial
+order_items,order_id~1136,unit_price_at_sale,negative line price,initial
+order_items,order_id~1139,unit_price_at_sale,negative line price,initial
+order_items,order_id~1277,unit_price_at_sale,negative line price,initial
+order_items,order_id~1284,unit_price_at_sale,negative line price,initial
+order_items,order_id~1314,unit_price_at_sale,negative line price,initial
+order_items,order_id~1333,unit_price_at_sale,negative line price,initial
+order_items,order_id~1395,unit_price_at_sale,negative line price,initial
+order_items,order_id~1539,unit_price_at_sale,negative line price,initial
+order_items,order_id~1675,unit_price_at_sale,negative line price,initial
+order_items,order_id~1773,unit_price_at_sale,negative line price,initial
+order_items,order_id~1801,unit_price_at_sale,negative line price,initial
+order_items,order_id~1822,unit_price_at_sale,negative line price,initial
+order_items,order_id~2036,unit_price_at_sale,negative line price,initial
+order_items,order_id~2195,unit_price_at_sale,negative line price,initial
+order_items,order_id~2216,unit_price_at_sale,negative line price,initial
+order_items,order_id~2377,unit_price_at_sale,negative line price,initial
+order_items,order_id~2412,unit_price_at_sale,negative line price,initial
+order_items,order_id~2483,unit_price_at_sale,negative line price,initial
+order_items,order_id~2497,unit_price_at_sale,negative line price,initial
+order_items,order_id~2561,unit_price_at_sale,negative line price,initial
+order_items,order_id~2596,unit_price_at_sale,negative line price,initial
+order_items,order_id~2714,unit_price_at_sale,negative line price,initial
+order_items,order_id~2885,unit_price_at_sale,negative line price,initial
+order_items,order_id~2961,unit_price_at_sale,negative line price,initial
+order_items,order_id~3023,unit_price_at_sale,negative line price,initial
+order_items,order_id~3090,unit_price_at_sale,negative line price,initial
+order_items,order_id~3159,unit_price_at_sale,negative line price,initial
+order_items,order_id~3222,unit_price_at_sale,negative line price,initial
+order_items,order_id~3250,unit_price_at_sale,negative line price,initial
+order_items,order_id~3272,unit_price_at_sale,negative line price,initial
+order_items,order_id~3397,unit_price_at_sale,negative line price,initial
+order_items,order_id~3427,unit_price_at_sale,negative line price,initial
+order_items,order_id~3786,unit_price_at_sale,negative line price,initial
+order_items,order_id~3808,unit_price_at_sale,negative line price,initial
+order_items,order_id~3898,unit_price_at_sale,negative line price,initial
+order_items,order_id~4105,unit_price_at_sale,negative line price,initial
+order_items,order_id~4308,unit_price_at_sale,negative line price,initial
+order_items,order_id~4451,unit_price_at_sale,negative line price,initial
+order_items,order_id~4471,unit_price_at_sale,negative line price,initial
+order_items,order_id~4567,unit_price_at_sale,negative line price,initial
+order_items,order_id~4579,unit_price_at_sale,negative line price,initial
+order_items,order_id~4602,unit_price_at_sale,negative line price,initial
+order_items,order_id~4608,unit_price_at_sale,negative line price,initial
+order_items,order_id~4799,unit_price_at_sale,negative line price,initial
+order_items,order_id~4848,unit_price_at_sale,negative line price,initial
+order_items,order_id~4958,unit_price_at_sale,negative line price,initial
+order_items,order_id~5029,unit_price_at_sale,negative line price,initial
+order_items,order_id~5114,unit_price_at_sale,negative line price,initial
+order_items,order_id~5148,unit_price_at_sale,negative line price,initial
+order_items,order_id~5165,unit_price_at_sale,negative line price,initial
+order_items,order_id~5199,unit_price_at_sale,negative line price,initial
+order_items,order_id~5206,unit_price_at_sale,negative line price,initial
+order_items,order_id~5268,unit_price_at_sale,negative line price,initial
+order_items,order_id~5337,unit_price_at_sale,negative line price,initial
+order_items,order_id~5371,unit_price_at_sale,negative line price,initial
+order_items,order_id~5372,unit_price_at_sale,negative line price,initial
+order_items,order_id~5714,unit_price_at_sale,negative line price,initial
+order_items,order_id~5760,unit_price_at_sale,negative line price,initial
+order_items,order_id~5841,unit_price_at_sale,negative line price,initial
+order_items,order_id~5905,unit_price_at_sale,negative line price,initial
+order_items,order_id~5950,unit_price_at_sale,negative line price,initial
+order_items,order_id~6295,unit_price_at_sale,negative line price,initial
+order_items,order_id~6339,unit_price_at_sale,negative line price,initial
+order_items,order_id~6420,unit_price_at_sale,negative line price,initial
+order_items,order_id~6454,unit_price_at_sale,negative line price,initial
+order_items,order_id~6528,unit_price_at_sale,negative line price,initial
+order_items,order_id~6724,unit_price_at_sale,negative line price,initial
+order_items,order_id~6812,unit_price_at_sale,negative line price,initial
+order_items,order_id~6899,unit_price_at_sale,negative line price,initial
+order_items,order_id~6927,unit_price_at_sale,negative line price,initial
+order_items,order_id~6950,unit_price_at_sale,negative line price,initial
+order_items,order_id~7005,unit_price_at_sale,negative line price,initial
+order_items,order_id~7188,unit_price_at_sale,negative line price,initial
+order_items,order_id~7189,unit_price_at_sale,negative line price,initial
+order_items,order_id~7344,unit_price_at_sale,negative line price,initial
+order_items,order_id~7355,unit_price_at_sale,negative line price,initial
+order_items,order_id~7366,unit_price_at_sale,negative line price,initial
+order_items,order_id~7410,unit_price_at_sale,negative line price,initial
+order_items,order_id~7536,unit_price_at_sale,negative line price,initial
+order_items,order_id~7566,unit_price_at_sale,negative line price,initial
+order_items,order_id~7584,unit_price_at_sale,negative line price,initial
+order_items,order_id~7597,unit_price_at_sale,negative line price,initial
+order_items,order_id~7622,unit_price_at_sale,negative line price,initial
+order_items,order_id~7673,unit_price_at_sale,negative line price,initial
+order_items,order_id~7809,unit_price_at_sale,negative line price,initial
+order_items,order_id~7865,unit_price_at_sale,negative line price,initial
+order_items,order_id~7880,unit_price_at_sale,negative line price,initial
+order_items,order_id~7927,unit_price_at_sale,negative line price,initial
+order_items,order_id~7950,unit_price_at_sale,negative line price,initial
+order_items,order_id~8047,unit_price_at_sale,negative line price,initial
+order_items,order_id~8085,unit_price_at_sale,negative line price,initial
+order_items,order_id~8281,unit_price_at_sale,negative line price,initial
+order_items,order_id~8355,unit_price_at_sale,negative line price,initial
+order_items,order_id~8374,unit_price_at_sale,negative line price,initial
+order_items,order_id~8384,unit_price_at_sale,negative line price,initial
+order_items,order_id~8397,unit_price_at_sale,negative line price,initial
+order_items,order_id~8447,unit_price_at_sale,negative line price,initial
+order_items,order_id~8524,unit_price_at_sale,negative line price,initial
+order_items,order_id~8772,unit_price_at_sale,negative line price,initial
+order_items,order_id~8785,unit_price_at_sale,negative line price,initial
+order_items,order_id~8991,unit_price_at_sale,negative line price,initial
+order_items,order_id~9009,unit_price_at_sale,negative line price,initial
+order_items,order_id~9146,unit_price_at_sale,negative line price,initial
+order_items,order_id~9259,unit_price_at_sale,negative line price,initial
+order_items,order_id~9289,unit_price_at_sale,negative line price,initial
+order_items,order_id~9331,unit_price_at_sale,negative line price,initial
+order_items,order_id~9362,unit_price_at_sale,negative line price,initial
+order_items,order_id~9400,unit_price_at_sale,negative line price,initial
+order_items,order_id~9500,unit_price_at_sale,negative line price,initial
+order_items,order_id~9510,unit_price_at_sale,negative line price,initial
+order_items,order_id~9552,unit_price_at_sale,negative line price,initial
+order_items,order_id~9641,unit_price_at_sale,negative line price,initial
+order_items,order_id~9666,unit_price_at_sale,negative line price,initial
+order_items,order_id~9741,unit_price_at_sale,negative line price,initial
+order_items,order_id~9760,unit_price_at_sale,negative line price,initial
+order_items,order_id~9764,unit_price_at_sale,negative line price,initial
+order_items,order_id~9781,unit_price_at_sale,negative line price,initial
+order_items,order_id~9793,unit_price_at_sale,negative line price,initial
+order_items,order_id~10011,unit_price_at_sale,negative line price,initial
+order_items,order_id~10058,unit_price_at_sale,negative line price,initial
+order_items,order_id~10147,unit_price_at_sale,negative line price,initial
+order_items,order_id~10252,unit_price_at_sale,negative line price,initial
+order_items,order_id~10326,unit_price_at_sale,negative line price,initial
+order_items,order_id~10376,unit_price_at_sale,negative line price,initial
+order_items,order_id~10525,unit_price_at_sale,negative line price,initial
+order_items,order_id~10544,unit_price_at_sale,negative line price,initial
+order_items,order_id~10554,unit_price_at_sale,negative line price,initial
+order_items,order_id~10587,unit_price_at_sale,negative line price,initial
+order_items,order_id~10607,unit_price_at_sale,negative line price,initial
+order_items,order_id~10708,unit_price_at_sale,negative line price,initial
+order_items,order_id~10756,unit_price_at_sale,negative line price,initial
+order_items,order_id~11046,unit_price_at_sale,negative line price,initial
+order_items,order_id~11300,unit_price_at_sale,negative line price,initial
+order_items,order_id~11364,unit_price_at_sale,negative line price,initial
+order_items,order_id~11375,unit_price_at_sale,negative line price,initial
+order_items,order_id~11399,unit_price_at_sale,negative line price,initial
+order_items,order_id~11696,unit_price_at_sale,negative line price,initial
+order_items,order_id~11743,unit_price_at_sale,negative line price,initial
+order_items,order_id~11756,unit_price_at_sale,negative line price,initial
+order_items,order_id~11843,unit_price_at_sale,negative line price,initial
+order_items,order_id~11885,unit_price_at_sale,negative line price,initial
+order_items,order_id~12076,unit_price_at_sale,negative line price,initial
+order_items,order_id~12192,unit_price_at_sale,negative line price,initial
+order_items,order_id~12225,unit_price_at_sale,negative line price,initial
+order_items,order_id~12281,unit_price_at_sale,negative line price,initial
+order_items,order_id~12285,unit_price_at_sale,negative line price,initial
+order_items,order_id~12328,unit_price_at_sale,negative line price,initial
+order_items,order_id~12430,unit_price_at_sale,negative line price,initial
+order_items,order_id~12493,unit_price_at_sale,negative line price,initial
+order_items,order_id~12499,unit_price_at_sale,negative line price,initial
+order_items,order_id~12510,unit_price_at_sale,negative line price,initial
+order_items,order_id~12705,unit_price_at_sale,negative line price,initial
+order_items,order_id~12761,unit_price_at_sale,negative line price,initial
+order_items,order_id~12801,unit_price_at_sale,negative line price,initial
+order_items,order_id~12906,unit_price_at_sale,negative line price,initial
+order_items,order_id~13089,unit_price_at_sale,negative line price,initial
+order_items,order_id~13106,unit_price_at_sale,negative line price,initial
+order_items,order_id~13233,unit_price_at_sale,negative line price,initial
+order_items,order_id~13318,unit_price_at_sale,negative line price,initial
+order_items,order_id~13463,unit_price_at_sale,negative line price,initial
+order_items,order_id~13695,unit_price_at_sale,negative line price,initial
+order_items,order_id~13708,unit_price_at_sale,negative line price,initial
+order_items,order_id~13830,unit_price_at_sale,negative line price,initial
+order_items,order_id~14328,unit_price_at_sale,negative line price,initial
+order_items,order_id~14328,unit_price_at_sale,negative line price,initial
+order_items,order_id~14522,unit_price_at_sale,negative line price,initial
+order_items,order_id~14615,unit_price_at_sale,negative line price,initial
+order_items,order_id~14752,unit_price_at_sale,negative line price,initial
+order_items,order_id~14951,unit_price_at_sale,negative line price,initial
+order_items,order_id~14991,unit_price_at_sale,negative line price,initial
+order_items,order_id~15008,unit_price_at_sale,negative line price,initial
+order_items,order_id~15103,unit_price_at_sale,negative line price,initial
+order_items,order_id~15122,unit_price_at_sale,negative line price,initial
+order_items,order_id~15182,unit_price_at_sale,negative line price,initial
+order_items,order_id~15250,unit_price_at_sale,negative line price,initial
+order_items,order_id~15272,unit_price_at_sale,negative line price,initial
+order_items,order_id~15308,unit_price_at_sale,negative line price,initial
+order_items,order_id~15329,unit_price_at_sale,negative line price,initial
+order_items,order_id~15332,unit_price_at_sale,negative line price,initial
+order_items,order_id~15391,unit_price_at_sale,negative line price,initial
+order_items,order_id~15432,unit_price_at_sale,negative line price,initial
+order_items,order_id~15608,unit_price_at_sale,negative line price,initial
+order_items,order_id~15608,unit_price_at_sale,negative line price,initial
+order_items,order_id~15909,unit_price_at_sale,negative line price,initial
+order_items,order_id~15974,unit_price_at_sale,negative line price,initial
+order_items,order_id~16070,unit_price_at_sale,negative line price,initial
+order_items,order_id~16239,unit_price_at_sale,negative line price,initial
+order_items,order_id~16393,unit_price_at_sale,negative line price,initial
+order_items,order_id~16470,unit_price_at_sale,negative line price,initial
+order_items,order_id~16495,unit_price_at_sale,negative line price,initial
+order_items,order_id~16501,unit_price_at_sale,negative line price,initial
+order_items,order_id~16605,unit_price_at_sale,negative line price,initial
+order_items,order_id~16637,unit_price_at_sale,negative line price,initial
+order_items,order_id~16693,unit_price_at_sale,negative line price,initial
+order_items,order_id~17038,unit_price_at_sale,negative line price,initial
+order_items,order_id~17050,unit_price_at_sale,negative line price,initial
+order_items,order_id~17054,unit_price_at_sale,negative line price,initial
+order_items,order_id~17057,unit_price_at_sale,negative line price,initial
+order_items,order_id~17099,unit_price_at_sale,negative line price,initial
+order_items,order_id~17181,unit_price_at_sale,negative line price,initial
+order_items,order_id~17218,unit_price_at_sale,negative line price,initial
+order_items,order_id~17334,unit_price_at_sale,negative line price,initial
+order_items,order_id~17339,unit_price_at_sale,negative line price,initial
+order_items,order_id~17499,unit_price_at_sale,negative line price,initial
+order_items,order_id~17508,unit_price_at_sale,negative line price,initial
+order_items,order_id~17550,unit_price_at_sale,negative line price,initial
+order_items,order_id~17657,unit_price_at_sale,negative line price,initial
+order_items,order_id~17734,unit_price_at_sale,negative line price,initial
+order_items,order_id~17811,unit_price_at_sale,negative line price,initial
+order_items,order_id~18025,unit_price_at_sale,negative line price,initial
+order_items,order_id~18059,unit_price_at_sale,negative line price,initial
+order_items,order_id~18103,unit_price_at_sale,negative line price,initial
+order_items,order_id~18270,unit_price_at_sale,negative line price,initial
+order_items,order_id~18318,unit_price_at_sale,negative line price,initial
+order_items,order_id~18335,unit_price_at_sale,negative line price,initial
+order_items,order_id~18447,unit_price_at_sale,negative line price,initial
+order_items,order_id~18511,unit_price_at_sale,negative line price,initial
+order_items,order_id~18992,unit_price_at_sale,negative line price,initial
+order_items,order_id~19029,unit_price_at_sale,negative line price,initial
+order_items,order_id~19050,unit_price_at_sale,negative line price,initial
+order_items,order_id~19079,unit_price_at_sale,negative line price,initial
+order_items,order_id~19080,unit_price_at_sale,negative line price,initial
+order_items,order_id~19150,unit_price_at_sale,negative line price,initial
+order_items,order_id~19201,unit_price_at_sale,negative line price,initial
+order_items,order_id~19277,unit_price_at_sale,negative line price,initial
+order_items,order_id~19295,unit_price_at_sale,negative line price,initial
+order_items,order_id~19314,unit_price_at_sale,negative line price,initial
+order_items,order_id~19325,unit_price_at_sale,negative line price,initial
+order_items,order_id~19346,unit_price_at_sale,negative line price,initial
+order_items,order_id~19483,unit_price_at_sale,negative line price,initial
+order_items,order_id~19501,unit_price_at_sale,negative line price,initial
+order_items,order_id~19539,unit_price_at_sale,negative line price,initial
+order_items,order_id~19723,unit_price_at_sale,negative line price,initial
+order_items,order_id~19780,unit_price_at_sale,negative line price,initial
+order_items,order_id~19920,unit_price_at_sale,negative line price,initial
+order_items,order_id~20013,unit_price_at_sale,negative line price,initial
+order_items,order_id~20097,unit_price_at_sale,negative line price,initial
+order_items,order_id~20137,unit_price_at_sale,negative line price,initial
+order_items,order_id~20247,unit_price_at_sale,negative line price,initial
+order_items,order_id~20251,unit_price_at_sale,negative line price,initial
+order_items,order_id~20252,unit_price_at_sale,negative line price,initial
+order_items,order_id~20309,unit_price_at_sale,negative line price,initial
+order_items,order_id~20440,unit_price_at_sale,negative line price,initial
+order_items,order_id~20466,unit_price_at_sale,negative line price,initial
+order_items,order_id~20675,unit_price_at_sale,negative line price,initial
+order_items,order_id~20717,unit_price_at_sale,negative line price,initial
+order_items,order_id~20802,unit_price_at_sale,negative line price,initial
+order_items,order_id~20805,unit_price_at_sale,negative line price,initial
+order_items,order_id~20832,unit_price_at_sale,negative line price,initial
+order_items,order_id~20851,unit_price_at_sale,negative line price,initial
+order_items,order_id~20927,unit_price_at_sale,negative line price,initial
+order_items,order_id~20944,unit_price_at_sale,negative line price,initial
+order_items,order_id~20949,unit_price_at_sale,negative line price,initial
+order_items,order_id~20966,unit_price_at_sale,negative line price,initial
+order_items,order_id~21173,unit_price_at_sale,negative line price,initial
+order_items,order_id~21179,unit_price_at_sale,negative line price,initial
+order_items,order_id~21200,unit_price_at_sale,negative line price,initial
+order_items,order_id~21208,unit_price_at_sale,negative line price,initial
+order_items,order_id~21263,unit_price_at_sale,negative line price,initial
+order_items,order_id~21339,unit_price_at_sale,negative line price,initial
+order_items,order_id~21453,unit_price_at_sale,negative line price,initial
+order_items,order_id~21471,unit_price_at_sale,negative line price,initial
+order_items,order_id~21477,unit_price_at_sale,negative line price,initial
+order_items,order_id~21492,unit_price_at_sale,negative line price,initial
+order_items,order_id~21576,unit_price_at_sale,negative line price,initial
+order_items,order_id~21640,unit_price_at_sale,negative line price,initial
+order_items,order_id~21689,unit_price_at_sale,negative line price,initial
+order_items,order_id~21707,unit_price_at_sale,negative line price,initial
+order_items,order_id~21742,unit_price_at_sale,negative line price,initial
+order_items,order_id~21768,unit_price_at_sale,negative line price,initial
+order_items,order_id~21825,unit_price_at_sale,negative line price,initial
+order_items,order_id~21850,unit_price_at_sale,negative line price,initial
+order_items,order_id~21900,unit_price_at_sale,negative line price,initial
+order_items,order_id~21995,unit_price_at_sale,negative line price,initial
+order_items,order_id~22070,unit_price_at_sale,negative line price,initial
+order_items,order_id~22099,unit_price_at_sale,negative line price,initial
+order_items,order_id~22163,unit_price_at_sale,negative line price,initial
+order_items,order_id~22215,unit_price_at_sale,negative line price,initial
+order_items,order_id~22224,unit_price_at_sale,negative line price,initial
+order_items,order_id~22382,unit_price_at_sale,negative line price,initial
+order_items,order_id~22486,unit_price_at_sale,negative line price,initial
+order_items,order_id~22528,unit_price_at_sale,negative line price,initial
+order_items,order_id~22598,unit_price_at_sale,negative line price,initial
+order_items,order_id~22712,unit_price_at_sale,negative line price,initial
+order_items,order_id~22744,unit_price_at_sale,negative line price,initial
+order_items,order_id~22854,unit_price_at_sale,negative line price,initial
+order_items,order_id~22990,unit_price_at_sale,negative line price,initial
+order_items,order_id~23051,unit_price_at_sale,negative line price,initial
+order_items,order_id~23074,unit_price_at_sale,negative line price,initial
+order_items,order_id~23104,unit_price_at_sale,negative line price,initial
+order_items,order_id~23201,unit_price_at_sale,negative line price,initial
+order_items,order_id~23351,unit_price_at_sale,negative line price,initial
+order_items,order_id~23604,unit_price_at_sale,negative line price,initial
+order_items,order_id~23628,unit_price_at_sale,negative line price,initial
+order_items,order_id~23730,unit_price_at_sale,negative line price,initial
+order_items,order_id~23759,unit_price_at_sale,negative line price,initial
+order_items,order_id~23902,unit_price_at_sale,negative line price,initial
+order_items,order_id~23907,unit_price_at_sale,negative line price,initial
+order_items,order_id~23977,unit_price_at_sale,negative line price,initial
+order_items,order_id~24197,unit_price_at_sale,negative line price,initial
+order_items,order_id~24278,unit_price_at_sale,negative line price,initial
+order_items,order_id~24362,unit_price_at_sale,negative line price,initial
+order_items,order_id~24384,unit_price_at_sale,negative line price,initial
+order_items,order_id~24694,unit_price_at_sale,negative line price,initial
+order_items,order_id~24803,unit_price_at_sale,negative line price,initial
+order_items,order_id~24892,unit_price_at_sale,negative line price,initial
+order_items,order_id~24953,unit_price_at_sale,negative line price,initial
+order_items,order_id~25054,unit_price_at_sale,negative line price,initial
+order_items,order_id~25061,unit_price_at_sale,negative line price,initial
+order_items,order_id~25078,unit_price_at_sale,negative line price,initial
+order_items,order_id~25106,unit_price_at_sale,negative line price,initial
+order_items,order_id~25259,unit_price_at_sale,negative line price,initial
+order_items,order_id~25270,unit_price_at_sale,negative line price,initial
+order_items,order_id~25429,unit_price_at_sale,negative line price,initial
+order_items,order_id~25459,unit_price_at_sale,negative line price,initial
+order_items,order_id~25827,unit_price_at_sale,negative line price,initial
+order_items,order_id~25863,unit_price_at_sale,negative line price,initial
+order_items,order_id~26033,unit_price_at_sale,negative line price,initial
+order_items,order_id~26202,unit_price_at_sale,negative line price,initial
+order_items,order_id~26242,unit_price_at_sale,negative line price,initial
+order_items,order_id~26336,unit_price_at_sale,negative line price,initial
+order_items,order_id~26372,unit_price_at_sale,negative line price,initial
+order_items,order_id~26838,unit_price_at_sale,negative line price,initial
+order_items,order_id~27004,unit_price_at_sale,negative line price,initial
+order_items,order_id~27011,unit_price_at_sale,negative line price,initial
+order_items,order_id~27049,unit_price_at_sale,negative line price,initial
+order_items,order_id~27080,unit_price_at_sale,negative line price,initial
+order_items,order_id~27080,unit_price_at_sale,negative line price,initial
+order_items,order_id~27144,unit_price_at_sale,negative line price,initial
+order_items,order_id~27204,unit_price_at_sale,negative line price,initial
+order_items,order_id~27216,unit_price_at_sale,negative line price,initial
+order_items,order_id~27302,unit_price_at_sale,negative line price,initial
+order_items,order_id~27419,unit_price_at_sale,negative line price,initial
+order_items,order_id~27448,unit_price_at_sale,negative line price,initial
+order_items,order_id~27587,unit_price_at_sale,negative line price,initial
+order_items,order_id~27724,unit_price_at_sale,negative line price,initial
+order_items,order_id~27989,unit_price_at_sale,negative line price,initial
+order_items,order_id~28135,unit_price_at_sale,negative line price,initial
+order_items,order_id~28185,unit_price_at_sale,negative line price,initial
+order_items,order_id~28464,unit_price_at_sale,negative line price,initial
+order_items,order_id~28506,unit_price_at_sale,negative line price,initial
+order_items,order_id~28537,unit_price_at_sale,negative line price,initial
+order_items,order_id~28883,unit_price_at_sale,negative line price,initial
+order_items,order_id~28893,unit_price_at_sale,negative line price,initial
+order_items,order_id~28977,unit_price_at_sale,negative line price,initial
+order_items,order_id~29038,unit_price_at_sale,negative line price,initial
+order_items,order_id~29064,unit_price_at_sale,negative line price,initial
+order_items,order_id~29112,unit_price_at_sale,negative line price,initial
+order_items,order_id~29182,unit_price_at_sale,negative line price,initial
+order_items,order_id~29299,unit_price_at_sale,negative line price,initial
+order_items,order_id~29529,unit_price_at_sale,negative line price,initial
+order_items,order_id~29568,unit_price_at_sale,negative line price,initial
+order_items,order_id~29577,unit_price_at_sale,negative line price,initial
+order_items,order_id~29625,unit_price_at_sale,negative line price,initial
+order_items,order_id~29644,unit_price_at_sale,negative line price,initial
+order_items,order_id~29729,unit_price_at_sale,negative line price,initial
+order_items,order_id~29849,unit_price_at_sale,negative line price,initial
+order_items,order_id~29922,unit_price_at_sale,negative line price,initial
+order_items,order_id~29943,unit_price_at_sale,negative line price,initial
+order_items,order_id~30160,unit_price_at_sale,negative line price,initial
+order_items,order_id~30231,unit_price_at_sale,negative line price,initial
+order_items,order_id~30747,unit_price_at_sale,negative line price,initial
+order_items,order_id~30878,unit_price_at_sale,negative line price,initial
+order_items,order_id~31245,unit_price_at_sale,negative line price,initial
+order_items,order_id~31279,unit_price_at_sale,negative line price,initial
+order_items,order_id~31338,unit_price_at_sale,negative line price,initial
+order_items,order_id~31450,unit_price_at_sale,negative line price,initial
+order_items,order_id~31558,unit_price_at_sale,negative line price,initial
+order_items,order_id~31595,unit_price_at_sale,negative line price,initial
+order_items,order_id~31821,unit_price_at_sale,negative line price,initial
+order_items,order_id~31833,unit_price_at_sale,negative line price,initial
+order_items,order_id~31866,unit_price_at_sale,negative line price,initial
+order_items,order_id~32008,unit_price_at_sale,negative line price,initial
+order_items,order_id~32041,unit_price_at_sale,negative line price,initial
+order_items,order_id~32070,unit_price_at_sale,negative line price,initial
+order_items,order_id~32133,unit_price_at_sale,negative line price,initial
+order_items,order_id~32343,unit_price_at_sale,negative line price,initial
+order_items,order_id~32394,unit_price_at_sale,negative line price,initial
+order_items,order_id~32817,unit_price_at_sale,negative line price,initial
+order_items,order_id~32841,unit_price_at_sale,negative line price,initial
+order_items,order_id~32870,unit_price_at_sale,negative line price,initial
+order_items,order_id~33067,unit_price_at_sale,negative line price,initial
+order_items,order_id~33068,unit_price_at_sale,negative line price,initial
+order_items,order_id~33092,unit_price_at_sale,negative line price,initial
+order_items,order_id~33285,unit_price_at_sale,negative line price,initial
+order_items,order_id~33301,unit_price_at_sale,negative line price,initial
+order_items,order_id~33328,unit_price_at_sale,negative line price,initial
+order_items,order_id~33365,unit_price_at_sale,negative line price,initial
+order_items,order_id~33498,unit_price_at_sale,negative line price,initial
+order_items,order_id~33516,unit_price_at_sale,negative line price,initial
+order_items,order_id~33594,unit_price_at_sale,negative line price,initial
+order_items,order_id~33967,unit_price_at_sale,negative line price,initial
+order_items,order_id~34189,unit_price_at_sale,negative line price,initial
+order_items,order_id~34271,unit_price_at_sale,negative line price,initial
+order_items,order_id~34314,unit_price_at_sale,negative line price,initial
+order_items,order_id~34335,unit_price_at_sale,negative line price,initial
+order_items,order_id~34606,unit_price_at_sale,negative line price,initial
+order_items,order_id~34670,unit_price_at_sale,negative line price,initial
+order_items,order_id~34878,unit_price_at_sale,negative line price,initial
+order_items,order_id~35074,unit_price_at_sale,negative line price,initial
+order_items,order_id~35161,unit_price_at_sale,negative line price,initial
+order_items,order_id~35246,unit_price_at_sale,negative line price,initial
+order_items,order_id~35259,unit_price_at_sale,negative line price,initial
+order_items,order_id~35338,unit_price_at_sale,negative line price,initial
+order_items,order_id~35412,unit_price_at_sale,negative line price,initial
+order_items,order_id~35448,unit_price_at_sale,negative line price,initial
+order_items,order_id~35473,unit_price_at_sale,negative line price,initial
+order_items,order_id~35676,unit_price_at_sale,negative line price,initial
+order_items,order_id~35725,unit_price_at_sale,negative line price,initial
+order_items,order_id~35800,unit_price_at_sale,negative line price,initial
+order_items,order_id~35841,unit_price_at_sale,negative line price,initial
+order_items,order_id~36012,unit_price_at_sale,negative line price,initial
+order_items,order_id~36528,unit_price_at_sale,negative line price,initial
+order_items,order_id~36692,unit_price_at_sale,negative line price,initial
+order_items,order_id~36702,unit_price_at_sale,negative line price,initial
+order_items,order_id~36943,unit_price_at_sale,negative line price,initial
+order_items,order_id~36963,unit_price_at_sale,negative line price,initial
+order_items,order_id~37105,unit_price_at_sale,negative line price,initial
+order_items,order_id~37160,unit_price_at_sale,negative line price,initial
+order_items,order_id~37221,unit_price_at_sale,negative line price,initial
+order_items,order_id~37360,unit_price_at_sale,negative line price,initial
+order_items,order_id~37447,unit_price_at_sale,negative line price,initial
+order_items,order_id~37451,unit_price_at_sale,negative line price,initial
+order_items,order_id~37654,unit_price_at_sale,negative line price,initial
+order_items,order_id~37973,unit_price_at_sale,negative line price,initial
+order_items,order_id~38046,unit_price_at_sale,negative line price,initial
+order_items,order_id~38165,unit_price_at_sale,negative line price,initial
+order_items,order_id~38418,unit_price_at_sale,negative line price,initial
+order_items,order_id~38640,unit_price_at_sale,negative line price,initial
+order_items,order_id~38702,unit_price_at_sale,negative line price,initial
+order_items,order_id~38745,unit_price_at_sale,negative line price,initial
+order_items,order_id~38900,unit_price_at_sale,negative line price,initial
+order_items,order_id~38925,unit_price_at_sale,negative line price,initial
+order_items,order_id~38935,unit_price_at_sale,negative line price,initial
+order_items,order_id~39031,unit_price_at_sale,negative line price,initial
+order_items,order_id~39058,unit_price_at_sale,negative line price,initial
+order_items,order_id~39132,unit_price_at_sale,negative line price,initial
+order_items,order_id~39138,unit_price_at_sale,negative line price,initial
+order_items,order_id~39462,unit_price_at_sale,negative line price,initial
+order_items,order_id~39549,unit_price_at_sale,negative line price,initial
+order_items,order_id~39566,unit_price_at_sale,negative line price,initial
+order_items,order_id~39736,unit_price_at_sale,negative line price,initial
+order_items,order_id~39780,unit_price_at_sale,negative line price,initial
+order_items,order_id~39895,unit_price_at_sale,negative line price,initial
+order_items,order_id~40124,unit_price_at_sale,negative line price,initial
+order_items,order_id~40127,unit_price_at_sale,negative line price,initial
+order_items,order_id~40166,unit_price_at_sale,negative line price,initial
+order_items,order_id~40314,unit_price_at_sale,negative line price,initial
+order_items,order_id~40358,unit_price_at_sale,negative line price,initial
+order_items,order_id~40371,unit_price_at_sale,negative line price,initial
+order_items,order_id~40581,unit_price_at_sale,negative line price,initial
+order_items,order_id~40607,unit_price_at_sale,negative line price,initial
+order_items,order_id~40633,unit_price_at_sale,negative line price,initial
+order_items,order_id~40869,unit_price_at_sale,negative line price,initial
+order_items,order_id~40996,unit_price_at_sale,negative line price,initial
+order_items,order_id~41100,unit_price_at_sale,negative line price,initial
+order_items,order_id~41105,unit_price_at_sale,negative line price,initial
+order_items,order_id~41125,unit_price_at_sale,negative line price,initial
+order_items,order_id~41187,unit_price_at_sale,negative line price,initial
+order_items,order_id~41232,unit_price_at_sale,negative line price,initial
+order_items,order_id~41339,unit_price_at_sale,negative line price,initial
+order_items,order_id~41445,unit_price_at_sale,negative line price,initial
+order_items,order_id~41508,unit_price_at_sale,negative line price,initial
+order_items,order_id~41640,unit_price_at_sale,negative line price,initial
+order_items,order_id~41672,unit_price_at_sale,negative line price,initial
+order_items,order_id~41789,unit_price_at_sale,negative line price,initial
+order_items,order_id~41974,unit_price_at_sale,negative line price,initial
+order_items,order_id~42019,unit_price_at_sale,negative line price,initial
+order_items,order_id~42265,unit_price_at_sale,negative line price,initial
+order_items,order_id~42270,unit_price_at_sale,negative line price,initial
+order_items,order_id~42281,unit_price_at_sale,negative line price,initial
+order_items,order_id~42318,unit_price_at_sale,negative line price,initial
+order_items,order_id~42341,unit_price_at_sale,negative line price,initial
+order_items,order_id~42386,unit_price_at_sale,negative line price,initial
+order_items,order_id~42390,unit_price_at_sale,negative line price,initial
+order_items,order_id~42395,unit_price_at_sale,negative line price,initial
+order_items,order_id~42546,unit_price_at_sale,negative line price,initial
+order_items,order_id~42740,unit_price_at_sale,negative line price,initial
+order_items,order_id~42885,unit_price_at_sale,negative line price,initial
+order_items,order_id~42980,unit_price_at_sale,negative line price,initial
+order_items,order_id~43089,unit_price_at_sale,negative line price,initial
+order_items,order_id~43182,unit_price_at_sale,negative line price,initial
+order_items,order_id~43271,unit_price_at_sale,negative line price,initial
+order_items,order_id~43284,unit_price_at_sale,negative line price,initial
+order_items,order_id~43297,unit_price_at_sale,negative line price,initial
+order_items,order_id~43339,unit_price_at_sale,negative line price,initial
+order_items,order_id~43355,unit_price_at_sale,negative line price,initial
+order_items,order_id~43484,unit_price_at_sale,negative line price,initial
+order_items,order_id~43541,unit_price_at_sale,negative line price,initial
+order_items,order_id~43651,unit_price_at_sale,negative line price,initial
+order_items,order_id~43755,unit_price_at_sale,negative line price,initial
+order_items,order_id~43772,unit_price_at_sale,negative line price,initial
+order_items,order_id~43800,unit_price_at_sale,negative line price,initial
+order_items,order_id~43850,unit_price_at_sale,negative line price,initial
+order_items,order_id~43989,unit_price_at_sale,negative line price,initial
+order_items,order_id~43992,unit_price_at_sale,negative line price,initial
+order_items,order_id~44035,unit_price_at_sale,negative line price,initial
+order_items,order_id~44246,unit_price_at_sale,negative line price,initial
+order_items,order_id~44401,unit_price_at_sale,negative line price,initial
+order_items,order_id~44624,unit_price_at_sale,negative line price,initial
+order_items,order_id~44866,unit_price_at_sale,negative line price,initial
+order_items,order_id~45087,unit_price_at_sale,negative line price,initial
+order_items,order_id~45385,unit_price_at_sale,negative line price,initial
+order_items,order_id~45394,unit_price_at_sale,negative line price,initial
+order_items,order_id~45440,unit_price_at_sale,negative line price,initial
+order_items,order_id~45460,unit_price_at_sale,negative line price,initial
+order_items,order_id~45525,unit_price_at_sale,negative line price,initial
+order_items,order_id~45704,unit_price_at_sale,negative line price,initial
+order_items,order_id~45713,unit_price_at_sale,negative line price,initial
+order_items,order_id~45719,unit_price_at_sale,negative line price,initial
+order_items,order_id~45734,unit_price_at_sale,negative line price,initial
+order_items,order_id~45745,unit_price_at_sale,negative line price,initial
+order_items,order_id~45861,unit_price_at_sale,negative line price,initial
+order_items,order_id~45875,unit_price_at_sale,negative line price,initial
+order_items,order_id~45899,unit_price_at_sale,negative line price,initial
+order_items,order_id~46097,unit_price_at_sale,negative line price,initial
+order_items,order_id~46162,unit_price_at_sale,negative line price,initial
+order_items,order_id~46213,unit_price_at_sale,negative line price,initial
+order_items,order_id~46231,unit_price_at_sale,negative line price,initial
+order_items,order_id~46384,unit_price_at_sale,negative line price,initial
+order_items,order_id~46476,unit_price_at_sale,negative line price,initial
+order_items,order_id~46746,unit_price_at_sale,negative line price,initial
+order_items,order_id~46899,unit_price_at_sale,negative line price,initial
+order_items,order_id~47115,unit_price_at_sale,negative line price,initial
+order_items,order_id~47144,unit_price_at_sale,negative line price,initial
+order_items,order_id~47146,unit_price_at_sale,negative line price,initial
+order_items,order_id~47177,unit_price_at_sale,negative line price,initial
+order_items,order_id~47194,unit_price_at_sale,negative line price,initial
+order_items,order_id~47208,unit_price_at_sale,negative line price,initial
+order_items,order_id~47348,unit_price_at_sale,negative line price,initial
+order_items,order_id~47475,unit_price_at_sale,negative line price,initial
+order_items,order_id~47569,unit_price_at_sale,negative line price,initial
+order_items,order_id~47604,unit_price_at_sale,negative line price,initial
+order_items,order_id~47643,unit_price_at_sale,negative line price,initial
+order_items,order_id~47684,unit_price_at_sale,negative line price,initial
+order_items,order_id~47739,unit_price_at_sale,negative line price,initial
+order_items,order_id~47742,unit_price_at_sale,negative line price,initial
+order_items,order_id~47811,unit_price_at_sale,negative line price,initial
+order_items,order_id~47836,unit_price_at_sale,negative line price,initial
+order_items,order_id~47836,unit_price_at_sale,negative line price,initial
+order_items,order_id~47988,unit_price_at_sale,negative line price,initial
+order_items,order_id~48028,unit_price_at_sale,negative line price,initial
+order_items,order_id~48089,unit_price_at_sale,negative line price,initial
+order_items,order_id~48236,unit_price_at_sale,negative line price,initial
+order_items,order_id~48254,unit_price_at_sale,negative line price,initial
+order_items,order_id~48388,unit_price_at_sale,negative line price,initial
+order_items,order_id~48508,unit_price_at_sale,negative line price,initial
+order_items,order_id~48673,unit_price_at_sale,negative line price,initial
+order_items,order_id~48677,unit_price_at_sale,negative line price,initial
+order_items,order_id~48867,unit_price_at_sale,negative line price,initial
+order_items,order_id~49001,unit_price_at_sale,negative line price,initial
+order_items,order_id~49001,unit_price_at_sale,negative line price,initial
+order_items,order_id~49035,unit_price_at_sale,negative line price,initial
+order_items,order_id~49269,unit_price_at_sale,negative line price,initial
+order_items,order_id~49313,unit_price_at_sale,negative line price,initial
+order_items,order_id~49381,unit_price_at_sale,negative line price,initial
+order_items,order_id~49579,unit_price_at_sale,negative line price,initial
+order_items,order_id~49659,unit_price_at_sale,negative line price,initial
+order_items,order_id~49743,unit_price_at_sale,negative line price,initial
+order_items,order_id~49852,unit_price_at_sale,negative line price,initial
+order_items,order_id~50011,unit_price_at_sale,negative line price,initial
+order_items,order_id~50070,unit_price_at_sale,negative line price,initial
+order_items,order_id~50187,unit_price_at_sale,negative line price,initial
+order_items,order_id~50207,unit_price_at_sale,negative line price,initial
+order_items,order_id~50210,unit_price_at_sale,negative line price,initial
+order_items,order_id~50253,unit_price_at_sale,negative line price,initial
+order_items,order_id~50274,unit_price_at_sale,negative line price,initial
+order_items,order_id~50352,unit_price_at_sale,negative line price,initial
+order_items,order_id~50460,unit_price_at_sale,negative line price,initial
+order_items,order_id~50595,unit_price_at_sale,negative line price,initial
+order_items,order_id~50677,unit_price_at_sale,negative line price,initial
+order_items,order_id~50764,unit_price_at_sale,negative line price,initial
+order_items,order_id~50876,unit_price_at_sale,negative line price,initial
+order_items,order_id~50949,unit_price_at_sale,negative line price,initial
+order_items,order_id~51071,unit_price_at_sale,negative line price,initial
+order_items,order_id~51133,unit_price_at_sale,negative line price,initial
+order_items,order_id~51337,unit_price_at_sale,negative line price,initial
+order_items,order_id~51716,unit_price_at_sale,negative line price,initial
+order_items,order_id~51729,unit_price_at_sale,negative line price,initial
+order_items,order_id~51851,unit_price_at_sale,negative line price,initial
+order_items,order_id~51921,unit_price_at_sale,negative line price,initial
+order_items,order_id~51986,unit_price_at_sale,negative line price,initial
+order_items,order_id~52035,unit_price_at_sale,negative line price,initial
+order_items,order_id~52076,unit_price_at_sale,negative line price,initial
+order_items,order_id~52170,unit_price_at_sale,negative line price,initial
+order_items,order_id~52288,unit_price_at_sale,negative line price,initial
+order_items,order_id~52492,unit_price_at_sale,negative line price,initial
+order_items,order_id~52589,unit_price_at_sale,negative line price,initial
+order_items,order_id~52617,unit_price_at_sale,negative line price,initial
+order_items,order_id~52618,unit_price_at_sale,negative line price,initial
+order_items,order_id~52652,unit_price_at_sale,negative line price,initial
+order_items,order_id~52668,unit_price_at_sale,negative line price,initial
+order_items,order_id~52698,unit_price_at_sale,negative line price,initial
+order_items,order_id~52726,unit_price_at_sale,negative line price,initial
+order_items,order_id~52810,unit_price_at_sale,negative line price,initial
+order_items,order_id~52924,unit_price_at_sale,negative line price,initial
+order_items,order_id~53011,unit_price_at_sale,negative line price,initial
+order_items,order_id~53024,unit_price_at_sale,negative line price,initial
+order_items,order_id~53118,unit_price_at_sale,negative line price,initial
+order_items,order_id~53147,unit_price_at_sale,negative line price,initial
+order_items,order_id~53187,unit_price_at_sale,negative line price,initial
+order_items,order_id~53426,unit_price_at_sale,negative line price,initial
+order_items,order_id~53505,unit_price_at_sale,negative line price,initial
+order_items,order_id~53518,unit_price_at_sale,negative line price,initial
+order_items,order_id~53521,unit_price_at_sale,negative line price,initial
+order_items,order_id~53601,unit_price_at_sale,negative line price,initial
+order_items,order_id~53715,unit_price_at_sale,negative line price,initial
+order_items,order_id~53763,unit_price_at_sale,negative line price,initial
+order_items,order_id~53777,unit_price_at_sale,negative line price,initial
+order_items,order_id~53822,unit_price_at_sale,negative line price,initial
+order_items,order_id~53829,unit_price_at_sale,negative line price,initial
+order_items,order_id~53875,unit_price_at_sale,negative line price,initial
+order_items,order_id~54004,unit_price_at_sale,negative line price,initial
+order_items,order_id~54008,unit_price_at_sale,negative line price,initial
+order_items,order_id~54171,unit_price_at_sale,negative line price,initial
+order_items,order_id~54226,unit_price_at_sale,negative line price,initial
+order_items,order_id~54393,unit_price_at_sale,negative line price,initial
+order_items,order_id~54416,unit_price_at_sale,negative line price,initial
+order_items,order_id~54638,unit_price_at_sale,negative line price,initial
+order_items,order_id~54683,unit_price_at_sale,negative line price,initial
+order_items,order_id~54897,unit_price_at_sale,negative line price,initial
+order_items,order_id~54959,unit_price_at_sale,negative line price,initial
+order_items,order_id~55349,unit_price_at_sale,negative line price,initial
+order_items,order_id~55528,unit_price_at_sale,negative line price,initial
+order_items,order_id~55606,unit_price_at_sale,negative line price,initial
+order_items,order_id~55618,unit_price_at_sale,negative line price,initial
+order_items,order_id~55672,unit_price_at_sale,negative line price,initial
+order_items,order_id~55793,unit_price_at_sale,negative line price,initial
+order_items,order_id~56042,unit_price_at_sale,negative line price,initial
+order_items,order_id~56157,unit_price_at_sale,negative line price,initial
+order_items,order_id~56278,unit_price_at_sale,negative line price,initial
+order_items,order_id~56422,unit_price_at_sale,negative line price,initial
+order_items,order_id~56623,unit_price_at_sale,negative line price,initial
+order_items,order_id~56637,unit_price_at_sale,negative line price,initial
+order_items,order_id~56782,unit_price_at_sale,negative line price,initial
+order_items,order_id~56849,unit_price_at_sale,negative line price,initial
+order_items,order_id~56849,unit_price_at_sale,negative line price,initial
+order_items,order_id~56881,unit_price_at_sale,negative line price,initial
+order_items,order_id~56992,unit_price_at_sale,negative line price,initial
+order_items,order_id~57134,unit_price_at_sale,negative line price,initial
+order_items,order_id~57273,unit_price_at_sale,negative line price,initial
+order_items,order_id~57366,unit_price_at_sale,negative line price,initial
+order_items,order_id~57430,unit_price_at_sale,negative line price,initial
+order_items,order_id~57458,unit_price_at_sale,negative line price,initial
+order_items,order_id~57520,unit_price_at_sale,negative line price,initial
+order_items,order_id~57602,unit_price_at_sale,negative line price,initial
+order_items,order_id~57636,unit_price_at_sale,negative line price,initial
+order_items,order_id~57669,unit_price_at_sale,negative line price,initial
+order_items,order_id~57918,unit_price_at_sale,negative line price,initial
+order_items,order_id~57918,unit_price_at_sale,negative line price,initial
+order_items,order_id~57964,unit_price_at_sale,negative line price,initial
+order_items,order_id~58023,unit_price_at_sale,negative line price,initial
+order_items,order_id~58053,unit_price_at_sale,negative line price,initial
+order_items,order_id~58111,unit_price_at_sale,negative line price,initial
+order_items,order_id~58160,unit_price_at_sale,negative line price,initial
+order_items,order_id~58238,unit_price_at_sale,negative line price,initial
+order_items,order_id~58320,unit_price_at_sale,negative line price,initial
+order_items,order_id~58362,unit_price_at_sale,negative line price,initial
+order_items,order_id~58433,unit_price_at_sale,negative line price,initial
+order_items,order_id~58845,unit_price_at_sale,negative line price,initial
+order_items,order_id~58896,unit_price_at_sale,negative line price,initial
+order_items,order_id~59022,unit_price_at_sale,negative line price,initial
+order_items,order_id~59270,unit_price_at_sale,negative line price,initial
+order_items,order_id~59296,unit_price_at_sale,negative line price,initial
+order_items,order_id~59454,unit_price_at_sale,negative line price,initial
+order_items,order_id~59480,unit_price_at_sale,negative line price,initial
+order_items,order_id~59526,unit_price_at_sale,negative line price,initial
+order_items,order_id~59587,unit_price_at_sale,negative line price,initial
+order_items,order_id~59612,unit_price_at_sale,negative line price,initial
+order_items,order_id~59640,unit_price_at_sale,negative line price,initial
+order_items,order_id~59685,unit_price_at_sale,negative line price,initial
+order_items,order_id~59785,unit_price_at_sale,negative line price,initial
+order_items,order_id~59796,unit_price_at_sale,negative line price,initial
+order_items,order_id~60267,unit_price_at_sale,negative line price,initial
+order_items,order_id~60295,unit_price_at_sale,negative line price,initial
+order_items,order_id~60553,unit_price_at_sale,negative line price,initial
+order_items,order_id~60628,unit_price_at_sale,negative line price,initial
+order_items,order_id~60699,unit_price_at_sale,negative line price,initial
+order_items,order_id~60772,unit_price_at_sale,negative line price,initial
+order_items,order_id~60774,unit_price_at_sale,negative line price,initial
+order_items,order_id~60802,unit_price_at_sale,negative line price,initial
+order_items,order_id~60832,unit_price_at_sale,negative line price,initial
+order_items,order_id~60895,unit_price_at_sale,negative line price,initial
+order_items,order_id~60899,unit_price_at_sale,negative line price,initial
+order_items,order_id~60932,unit_price_at_sale,negative line price,initial
+order_items,order_id~61213,unit_price_at_sale,negative line price,initial
+order_items,order_id~61232,unit_price_at_sale,negative line price,initial
+order_items,order_id~61273,unit_price_at_sale,negative line price,initial
+order_items,order_id~61295,unit_price_at_sale,negative line price,initial
+order_items,order_id~61328,unit_price_at_sale,negative line price,initial
+order_items,order_id~61532,unit_price_at_sale,negative line price,initial
+order_items,order_id~61595,unit_price_at_sale,negative line price,initial
+order_items,order_id~61887,unit_price_at_sale,negative line price,initial
+order_items,order_id~61908,unit_price_at_sale,negative line price,initial
+order_items,order_id~62002,unit_price_at_sale,negative line price,initial
+order_items,order_id~62072,unit_price_at_sale,negative line price,initial
+order_items,order_id~62179,unit_price_at_sale,negative line price,initial
+order_items,order_id~62190,unit_price_at_sale,negative line price,initial
+order_items,order_id~62241,unit_price_at_sale,negative line price,initial
+order_items,order_id~62258,unit_price_at_sale,negative line price,initial
+order_items,order_id~62508,unit_price_at_sale,negative line price,initial
+order_items,order_id~62512,unit_price_at_sale,negative line price,initial
+order_items,order_id~62679,unit_price_at_sale,negative line price,initial
+order_items,order_id~62723,unit_price_at_sale,negative line price,initial
+order_items,order_id~62731,unit_price_at_sale,negative line price,initial
+order_items,order_id~62750,unit_price_at_sale,negative line price,initial
+order_items,order_id~62756,unit_price_at_sale,negative line price,initial
+order_items,order_id~62761,unit_price_at_sale,negative line price,initial
+order_items,order_id~62887,unit_price_at_sale,negative line price,initial
+order_items,order_id~62968,unit_price_at_sale,negative line price,initial
+order_items,order_id~62978,unit_price_at_sale,negative line price,initial
+order_items,order_id~63002,unit_price_at_sale,negative line price,initial
+order_items,order_id~63092,unit_price_at_sale,negative line price,initial
+order_items,order_id~63133,unit_price_at_sale,negative line price,initial
+order_items,order_id~63208,unit_price_at_sale,negative line price,initial
+order_items,order_id~63642,unit_price_at_sale,negative line price,initial
+order_items,order_id~63886,unit_price_at_sale,negative line price,initial
+order_items,order_id~64076,unit_price_at_sale,negative line price,initial
+order_items,order_id~64177,unit_price_at_sale,negative line price,initial
+order_items,order_id~64203,unit_price_at_sale,negative line price,initial
+order_items,order_id~64214,unit_price_at_sale,negative line price,initial
+order_items,order_id~64445,unit_price_at_sale,negative line price,initial
+order_items,order_id~64522,unit_price_at_sale,negative line price,initial
+order_items,order_id~64576,unit_price_at_sale,negative line price,initial
+order_items,order_id~64622,unit_price_at_sale,negative line price,initial
+order_items,order_id~64697,unit_price_at_sale,negative line price,initial
+order_items,order_id~64788,unit_price_at_sale,negative line price,initial
+order_items,order_id~64923,unit_price_at_sale,negative line price,initial
+order_items,order_id~64966,unit_price_at_sale,negative line price,initial
+order_items,order_id~65051,unit_price_at_sale,negative line price,initial
+order_items,order_id~65096,unit_price_at_sale,negative line price,initial
+order_items,order_id~65147,unit_price_at_sale,negative line price,initial
+order_items,order_id~65287,unit_price_at_sale,negative line price,initial
+order_items,order_id~65363,unit_price_at_sale,negative line price,initial
+order_items,order_id~65379,unit_price_at_sale,negative line price,initial
+order_items,order_id~65445,unit_price_at_sale,negative line price,initial
+order_items,order_id~65596,unit_price_at_sale,negative line price,initial
+order_items,order_id~65609,unit_price_at_sale,negative line price,initial
+order_items,order_id~65624,unit_price_at_sale,negative line price,initial
+order_items,order_id~65642,unit_price_at_sale,negative line price,initial
+order_items,order_id~65701,unit_price_at_sale,negative line price,initial
+order_items,order_id~65955,unit_price_at_sale,negative line price,initial
+order_items,order_id~66142,unit_price_at_sale,negative line price,initial
+order_items,order_id~66231,unit_price_at_sale,negative line price,initial
+order_items,order_id~66332,unit_price_at_sale,negative line price,initial
+order_items,order_id~66393,unit_price_at_sale,negative line price,initial
+order_items,order_id~66420,unit_price_at_sale,negative line price,initial
+order_items,order_id~66509,unit_price_at_sale,negative line price,initial
+order_items,order_id~66545,unit_price_at_sale,negative line price,initial
+order_items,order_id~66647,unit_price_at_sale,negative line price,initial
+order_items,order_id~66679,unit_price_at_sale,negative line price,initial
+order_items,order_id~66927,unit_price_at_sale,negative line price,initial
+order_items,order_id~66964,unit_price_at_sale,negative line price,initial
+order_items,order_id~67036,unit_price_at_sale,negative line price,initial
+order_items,order_id~67136,unit_price_at_sale,negative line price,initial
+order_items,order_id~67175,unit_price_at_sale,negative line price,initial
+order_items,order_id~67184,unit_price_at_sale,negative line price,initial
+order_items,order_id~67184,unit_price_at_sale,negative line price,initial
+order_items,order_id~67426,unit_price_at_sale,negative line price,initial
+order_items,order_id~67516,unit_price_at_sale,negative line price,initial
+order_items,order_id~67519,unit_price_at_sale,negative line price,initial
+order_items,order_id~67559,unit_price_at_sale,negative line price,initial
+order_items,order_id~67651,unit_price_at_sale,negative line price,initial
+order_items,order_id~67681,unit_price_at_sale,negative line price,initial
+order_items,order_id~67689,unit_price_at_sale,negative line price,initial
+order_items,order_id~67719,unit_price_at_sale,negative line price,initial
+order_items,order_id~67772,unit_price_at_sale,negative line price,initial
+order_items,order_id~67791,unit_price_at_sale,negative line price,initial
+order_items,order_id~67880,unit_price_at_sale,negative line price,initial
+order_items,order_id~68101,unit_price_at_sale,negative line price,initial
+order_items,order_id~68117,unit_price_at_sale,negative line price,initial
+order_items,order_id~68341,unit_price_at_sale,negative line price,initial
+order_items,order_id~68483,unit_price_at_sale,negative line price,initial
+order_items,order_id~68597,unit_price_at_sale,negative line price,initial
+order_items,order_id~68621,unit_price_at_sale,negative line price,initial
+order_items,order_id~68799,unit_price_at_sale,negative line price,initial
+order_items,order_id~68825,unit_price_at_sale,negative line price,initial
+order_items,order_id~69088,unit_price_at_sale,negative line price,initial
+order_items,order_id~69099,unit_price_at_sale,negative line price,initial
+order_items,order_id~69330,unit_price_at_sale,negative line price,initial
+order_items,order_id~69607,unit_price_at_sale,negative line price,initial
+order_items,order_id~69812,unit_price_at_sale,negative line price,initial
+order_items,order_id~69845,unit_price_at_sale,negative line price,initial
+order_items,order_id~70161,unit_price_at_sale,negative line price,initial
+order_items,order_id~70169,unit_price_at_sale,negative line price,initial
+order_items,order_id~70180,unit_price_at_sale,negative line price,initial
+order_items,order_id~70308,unit_price_at_sale,negative line price,initial
+order_items,order_id~70348,unit_price_at_sale,negative line price,initial
+order_items,order_id~70393,unit_price_at_sale,negative line price,initial
+order_items,order_id~70395,unit_price_at_sale,negative line price,initial
+order_items,order_id~70549,unit_price_at_sale,negative line price,initial
+order_items,order_id~70554,unit_price_at_sale,negative line price,initial
+order_items,order_id~70784,unit_price_at_sale,negative line price,initial
+order_items,order_id~70928,unit_price_at_sale,negative line price,initial
+order_items,order_id~71179,unit_price_at_sale,negative line price,initial
+order_items,order_id~71226,unit_price_at_sale,negative line price,initial
+order_items,order_id~71234,unit_price_at_sale,negative line price,initial
+order_items,order_id~71300,unit_price_at_sale,negative line price,initial
+order_items,order_id~71359,unit_price_at_sale,negative line price,initial
+order_items,order_id~71502,unit_price_at_sale,negative line price,initial
+order_items,order_id~71579,unit_price_at_sale,negative line price,initial
+order_items,order_id~71854,unit_price_at_sale,negative line price,initial
+order_items,order_id~71889,unit_price_at_sale,negative line price,initial
+order_items,order_id~71898,unit_price_at_sale,negative line price,initial
+order_items,order_id~71910,unit_price_at_sale,negative line price,initial
+order_items,order_id~71945,unit_price_at_sale,negative line price,initial
+order_items,order_id~71957,unit_price_at_sale,negative line price,initial
+order_items,order_id~72048,unit_price_at_sale,negative line price,initial
+order_items,order_id~72213,unit_price_at_sale,negative line price,initial
+order_items,order_id~72388,unit_price_at_sale,negative line price,initial
+order_items,order_id~72489,unit_price_at_sale,negative line price,initial
+order_items,order_id~72546,unit_price_at_sale,negative line price,initial
+order_items,order_id~72553,unit_price_at_sale,negative line price,initial
+order_items,order_id~72581,unit_price_at_sale,negative line price,initial
+order_items,order_id~72600,unit_price_at_sale,negative line price,initial
+order_items,order_id~72953,unit_price_at_sale,negative line price,initial
+order_items,order_id~72957,unit_price_at_sale,negative line price,initial
+order_items,order_id~73157,unit_price_at_sale,negative line price,initial
+order_items,order_id~73283,unit_price_at_sale,negative line price,initial
+order_items,order_id~73285,unit_price_at_sale,negative line price,initial
+order_items,order_id~73297,unit_price_at_sale,negative line price,initial
+order_items,order_id~73301,unit_price_at_sale,negative line price,initial
+order_items,order_id~73391,unit_price_at_sale,negative line price,initial
+order_items,order_id~73391,unit_price_at_sale,negative line price,initial
+order_items,order_id~73435,unit_price_at_sale,negative line price,initial
+order_items,order_id~73481,unit_price_at_sale,negative line price,initial
+order_items,order_id~73488,unit_price_at_sale,negative line price,initial
+order_items,order_id~73552,unit_price_at_sale,negative line price,initial
+order_items,order_id~73828,unit_price_at_sale,negative line price,initial
+order_items,order_id~74178,unit_price_at_sale,negative line price,initial
+order_items,order_id~74315,unit_price_at_sale,negative line price,initial
+order_items,order_id~74370,unit_price_at_sale,negative line price,initial
+order_items,order_id~74372,unit_price_at_sale,negative line price,initial
+order_items,order_id~74392,unit_price_at_sale,negative line price,initial
+order_items,order_id~74398,unit_price_at_sale,negative line price,initial
+order_items,order_id~74467,unit_price_at_sale,negative line price,initial
+order_items,order_id~74516,unit_price_at_sale,negative line price,initial
+order_items,order_id~74524,unit_price_at_sale,negative line price,initial
+order_items,order_id~74588,unit_price_at_sale,negative line price,initial
+order_items,order_id~74612,unit_price_at_sale,negative line price,initial
+order_items,order_id~74639,unit_price_at_sale,negative line price,initial
+order_items,order_id~74656,unit_price_at_sale,negative line price,initial
+order_items,order_id~74666,unit_price_at_sale,negative line price,initial
+order_items,order_id~74688,unit_price_at_sale,negative line price,initial
+order_items,order_id~74705,unit_price_at_sale,negative line price,initial
+order_items,order_id~74707,unit_price_at_sale,negative line price,initial
+order_items,order_id~74835,unit_price_at_sale,negative line price,initial
+order_items,order_id~75141,unit_price_at_sale,negative line price,initial
+order_items,order_id~75194,unit_price_at_sale,negative line price,initial
+order_items,order_id~75404,unit_price_at_sale,negative line price,initial
+order_items,order_id~75512,unit_price_at_sale,negative line price,initial
+order_items,order_id~75569,unit_price_at_sale,negative line price,initial
+order_items,order_id~75663,unit_price_at_sale,negative line price,initial
+order_items,order_id~76016,unit_price_at_sale,negative line price,initial
+order_items,order_id~76282,unit_price_at_sale,negative line price,initial
+order_items,order_id~76315,unit_price_at_sale,negative line price,initial
+order_items,order_id~76344,unit_price_at_sale,negative line price,initial
+order_items,order_id~76564,unit_price_at_sale,negative line price,initial
+order_items,order_id~76824,unit_price_at_sale,negative line price,initial
+order_items,order_id~76831,unit_price_at_sale,negative line price,initial
+order_items,order_id~76884,unit_price_at_sale,negative line price,initial
+order_items,order_id~76887,unit_price_at_sale,negative line price,initial
+order_items,order_id~76993,unit_price_at_sale,negative line price,initial
+order_items,order_id~77036,unit_price_at_sale,negative line price,initial
+order_items,order_id~77222,unit_price_at_sale,negative line price,initial
+order_items,order_id~77242,unit_price_at_sale,negative line price,initial
+order_items,order_id~77355,unit_price_at_sale,negative line price,initial
+order_items,order_id~77378,unit_price_at_sale,negative line price,initial
+order_items,order_id~77473,unit_price_at_sale,negative line price,initial
+order_items,order_id~77483,unit_price_at_sale,negative line price,initial
+order_items,order_id~77543,unit_price_at_sale,negative line price,initial
+order_items,order_id~77601,unit_price_at_sale,negative line price,initial
+order_items,order_id~77751,unit_price_at_sale,negative line price,initial
+order_items,order_id~77763,unit_price_at_sale,negative line price,initial
+order_items,order_id~77774,unit_price_at_sale,negative line price,initial
+order_items,order_id~77805,unit_price_at_sale,negative line price,initial
+order_items,order_id~77870,unit_price_at_sale,negative line price,initial
+order_items,order_id~78434,unit_price_at_sale,negative line price,initial
+order_items,order_id~78453,unit_price_at_sale,negative line price,initial
+order_items,order_id~78494,unit_price_at_sale,negative line price,initial
+order_items,order_id~78716,unit_price_at_sale,negative line price,initial
+order_items,order_id~78969,unit_price_at_sale,negative line price,initial
+order_items,order_id~79000,unit_price_at_sale,negative line price,initial
+order_items,order_id~79191,unit_price_at_sale,negative line price,initial
+order_items,order_id~79274,unit_price_at_sale,negative line price,initial
+order_items,order_id~79320,unit_price_at_sale,negative line price,initial
+order_items,order_id~79396,unit_price_at_sale,negative line price,initial
+order_items,order_id~79640,unit_price_at_sale,negative line price,initial
+order_items,order_id~79776,unit_price_at_sale,negative line price,initial
+order_items,order_id~79848,unit_price_at_sale,negative line price,initial
+order_items,order_id~79903,unit_price_at_sale,negative line price,initial
+order_items,order_id~79904,unit_price_at_sale,negative line price,initial
+order_items,order_id~79932,unit_price_at_sale,negative line price,initial
+order_items,order_id~80014,unit_price_at_sale,negative line price,initial
+order_items,order_id~80053,unit_price_at_sale,negative line price,initial
+order_items,order_id~80157,unit_price_at_sale,negative line price,initial
+order_items,order_id~80189,unit_price_at_sale,negative line price,initial
+order_items,order_id~80238,unit_price_at_sale,negative line price,initial
+order_items,order_id~80265,unit_price_at_sale,negative line price,initial
+order_items,order_id~80274,unit_price_at_sale,negative line price,initial
+order_items,order_id~80294,unit_price_at_sale,negative line price,initial
+order_items,order_id~80503,unit_price_at_sale,negative line price,initial
+order_items,order_id~80550,unit_price_at_sale,negative line price,initial
+order_items,order_id~80619,unit_price_at_sale,negative line price,initial
+order_items,order_id~80969,unit_price_at_sale,negative line price,initial
+order_items,order_id~81119,unit_price_at_sale,negative line price,initial
+order_items,order_id~81381,unit_price_at_sale,negative line price,initial
+order_items,order_id~81406,unit_price_at_sale,negative line price,initial
+order_items,order_id~81688,unit_price_at_sale,negative line price,initial
+order_items,order_id~81787,unit_price_at_sale,negative line price,initial
+order_items,order_id~81883,unit_price_at_sale,negative line price,initial
+order_items,order_id~81892,unit_price_at_sale,negative line price,initial
+order_items,order_id~81945,unit_price_at_sale,negative line price,initial
+order_items,order_id~82024,unit_price_at_sale,negative line price,initial
+order_items,order_id~82301,unit_price_at_sale,negative line price,initial
+order_items,order_id~82307,unit_price_at_sale,negative line price,initial
+order_items,order_id~82323,unit_price_at_sale,negative line price,initial
+order_items,order_id~82464,unit_price_at_sale,negative line price,initial
+order_items,order_id~82480,unit_price_at_sale,negative line price,initial
+order_items,order_id~82498,unit_price_at_sale,negative line price,initial
+order_items,order_id~82524,unit_price_at_sale,negative line price,initial
+order_items,order_id~82677,unit_price_at_sale,negative line price,initial
+order_items,order_id~82966,unit_price_at_sale,negative line price,initial
+order_items,order_id~82990,unit_price_at_sale,negative line price,initial
+order_items,order_id~83199,unit_price_at_sale,negative line price,initial
+order_items,order_id~83283,unit_price_at_sale,negative line price,initial
+order_items,order_id~83478,unit_price_at_sale,negative line price,initial
+order_items,order_id~83530,unit_price_at_sale,negative line price,initial
+order_items,order_id~83736,unit_price_at_sale,negative line price,initial
+order_items,order_id~83764,unit_price_at_sale,negative line price,initial
+order_items,order_id~83773,unit_price_at_sale,negative line price,initial
+order_items,order_id~83775,unit_price_at_sale,negative line price,initial
+order_items,order_id~83799,unit_price_at_sale,negative line price,initial
+order_items,order_id~83904,unit_price_at_sale,negative line price,initial
+order_items,order_id~83971,unit_price_at_sale,negative line price,initial
+order_items,order_id~84139,unit_price_at_sale,negative line price,initial
+order_items,order_id~84194,unit_price_at_sale,negative line price,initial
+order_items,order_id~84232,unit_price_at_sale,negative line price,initial
+order_items,order_id~84394,unit_price_at_sale,negative line price,initial
+order_items,order_id~84499,unit_price_at_sale,negative line price,initial
+order_items,order_id~84692,unit_price_at_sale,negative line price,initial
+order_items,order_id~84929,unit_price_at_sale,negative line price,initial
+order_items,order_id~84944,unit_price_at_sale,negative line price,initial
+order_items,order_id~85054,unit_price_at_sale,negative line price,initial
+order_items,order_id~85079,unit_price_at_sale,negative line price,initial
+order_items,order_id~85135,unit_price_at_sale,negative line price,initial
+order_items,order_id~85301,unit_price_at_sale,negative line price,initial
+order_items,order_id~85744,unit_price_at_sale,negative line price,initial
+order_items,order_id~85756,unit_price_at_sale,negative line price,initial
+order_items,order_id~85838,unit_price_at_sale,negative line price,initial
+order_items,order_id~85944,unit_price_at_sale,negative line price,initial
+order_items,order_id~85954,unit_price_at_sale,negative line price,initial
+order_items,order_id~86056,unit_price_at_sale,negative line price,initial
+order_items,order_id~86104,unit_price_at_sale,negative line price,initial
+order_items,order_id~86155,unit_price_at_sale,negative line price,initial
+order_items,order_id~86263,unit_price_at_sale,negative line price,initial
+order_items,order_id~86264,unit_price_at_sale,negative line price,initial
+order_items,order_id~86312,unit_price_at_sale,negative line price,initial
+order_items,order_id~86335,unit_price_at_sale,negative line price,initial
+order_items,order_id~86483,unit_price_at_sale,negative line price,initial
+order_items,order_id~86608,unit_price_at_sale,negative line price,initial
+order_items,order_id~86649,unit_price_at_sale,negative line price,initial
+order_items,order_id~86881,unit_price_at_sale,negative line price,initial
+order_items,order_id~87024,unit_price_at_sale,negative line price,initial
+order_items,order_id~87046,unit_price_at_sale,negative line price,initial
+order_items,order_id~87069,unit_price_at_sale,negative line price,initial
+order_items,order_id~87114,unit_price_at_sale,negative line price,initial
+order_items,order_id~87125,unit_price_at_sale,negative line price,initial
+order_items,order_id~87486,unit_price_at_sale,negative line price,initial
+order_items,order_id~87569,unit_price_at_sale,negative line price,initial
+order_items,order_id~87583,unit_price_at_sale,negative line price,initial
+order_items,order_id~87609,unit_price_at_sale,negative line price,initial
+order_items,order_id~87812,unit_price_at_sale,negative line price,initial
+order_items,order_id~87831,unit_price_at_sale,negative line price,initial
+order_items,order_id~87958,unit_price_at_sale,negative line price,initial
+order_items,order_id~87976,unit_price_at_sale,negative line price,initial
+order_items,order_id~87999,unit_price_at_sale,negative line price,initial
+order_items,order_id~88241,unit_price_at_sale,negative line price,initial
+order_items,order_id~88307,unit_price_at_sale,negative line price,initial
+order_items,order_id~88319,unit_price_at_sale,negative line price,initial
+order_items,order_id~88323,unit_price_at_sale,negative line price,initial
+order_items,order_id~88368,unit_price_at_sale,negative line price,initial
+order_items,order_id~88393,unit_price_at_sale,negative line price,initial
+order_items,order_id~88425,unit_price_at_sale,negative line price,initial
+order_items,order_id~88449,unit_price_at_sale,negative line price,initial
+order_items,order_id~88472,unit_price_at_sale,negative line price,initial
+order_items,order_id~88538,unit_price_at_sale,negative line price,initial
+order_items,order_id~88846,unit_price_at_sale,negative line price,initial
+order_items,order_id~88892,unit_price_at_sale,negative line price,initial
+order_items,order_id~89037,unit_price_at_sale,negative line price,initial
+order_items,order_id~89267,unit_price_at_sale,negative line price,initial
+order_items,order_id~89344,unit_price_at_sale,negative line price,initial
+order_items,order_id~89425,unit_price_at_sale,negative line price,initial
+order_items,order_id~89523,unit_price_at_sale,negative line price,initial
+order_items,order_id~89620,unit_price_at_sale,negative line price,initial
+order_items,order_id~89780,unit_price_at_sale,negative line price,initial
+order_items,order_id~89801,unit_price_at_sale,negative line price,initial
+order_items,order_id~90137,unit_price_at_sale,negative line price,initial
+order_items,order_id~90180,unit_price_at_sale,negative line price,initial
+order_items,order_id~90220,unit_price_at_sale,negative line price,initial
+order_items,order_id~90243,unit_price_at_sale,negative line price,initial
+order_items,order_id~90264,unit_price_at_sale,negative line price,initial
+order_items,order_id~90420,unit_price_at_sale,negative line price,initial
+order_items,order_id~90434,unit_price_at_sale,negative line price,initial
+order_items,order_id~90575,unit_price_at_sale,negative line price,initial
+order_items,order_id~90707,unit_price_at_sale,negative line price,initial
+order_items,order_id~90762,unit_price_at_sale,negative line price,initial
+order_items,order_id~90789,unit_price_at_sale,negative line price,initial
+order_items,order_id~90951,unit_price_at_sale,negative line price,initial
+order_items,order_id~91034,unit_price_at_sale,negative line price,initial
+order_items,order_id~91074,unit_price_at_sale,negative line price,initial
+order_items,order_id~91084,unit_price_at_sale,negative line price,initial
+order_items,order_id~91088,unit_price_at_sale,negative line price,initial
+order_items,order_id~91121,unit_price_at_sale,negative line price,initial
+order_items,order_id~91151,unit_price_at_sale,negative line price,initial
+order_items,order_id~91163,unit_price_at_sale,negative line price,initial
+order_items,order_id~91257,unit_price_at_sale,negative line price,initial
+order_items,order_id~91360,unit_price_at_sale,negative line price,initial
+order_items,order_id~91435,unit_price_at_sale,negative line price,initial
+order_items,order_id~91458,unit_price_at_sale,negative line price,initial
+order_items,order_id~91489,unit_price_at_sale,negative line price,initial
+order_items,order_id~91575,unit_price_at_sale,negative line price,initial
+order_items,order_id~91576,unit_price_at_sale,negative line price,initial
+order_items,order_id~91648,unit_price_at_sale,negative line price,initial
+order_items,order_id~91650,unit_price_at_sale,negative line price,initial
+order_items,order_id~91663,unit_price_at_sale,negative line price,initial
+order_items,order_id~91664,unit_price_at_sale,negative line price,initial
+order_items,order_id~91700,unit_price_at_sale,negative line price,initial
+order_items,order_id~91826,unit_price_at_sale,negative line price,initial
+order_items,order_id~92054,unit_price_at_sale,negative line price,initial
+order_items,order_id~92086,unit_price_at_sale,negative line price,initial
+order_items,order_id~92183,unit_price_at_sale,negative line price,initial
+order_items,order_id~92373,unit_price_at_sale,negative line price,initial
+order_items,order_id~92482,unit_price_at_sale,negative line price,initial
+order_items,order_id~92489,unit_price_at_sale,negative line price,initial
+order_items,order_id~92601,unit_price_at_sale,negative line price,initial
+order_items,order_id~92752,unit_price_at_sale,negative line price,initial
+order_items,order_id~92804,unit_price_at_sale,negative line price,initial
+order_items,order_id~92822,unit_price_at_sale,negative line price,initial
+order_items,order_id~92953,unit_price_at_sale,negative line price,initial
+order_items,order_id~93019,unit_price_at_sale,negative line price,initial
+order_items,order_id~93080,unit_price_at_sale,negative line price,initial
+order_items,order_id~93092,unit_price_at_sale,negative line price,initial
+order_items,order_id~93414,unit_price_at_sale,negative line price,initial
+order_items,order_id~93507,unit_price_at_sale,negative line price,initial
+order_items,order_id~93510,unit_price_at_sale,negative line price,initial
+order_items,order_id~93630,unit_price_at_sale,negative line price,initial
+order_items,order_id~93679,unit_price_at_sale,negative line price,initial
+order_items,order_id~93717,unit_price_at_sale,negative line price,initial
+order_items,order_id~93817,unit_price_at_sale,negative line price,initial
+order_items,order_id~93844,unit_price_at_sale,negative line price,initial
+order_items,order_id~93857,unit_price_at_sale,negative line price,initial
+order_items,order_id~93953,unit_price_at_sale,negative line price,initial
+order_items,order_id~94011,unit_price_at_sale,negative line price,initial
+order_items,order_id~94145,unit_price_at_sale,negative line price,initial
+order_items,order_id~94338,unit_price_at_sale,negative line price,initial
+order_items,order_id~94472,unit_price_at_sale,negative line price,initial
+order_items,order_id~94543,unit_price_at_sale,negative line price,initial
+order_items,order_id~94546,unit_price_at_sale,negative line price,initial
+order_items,order_id~94565,unit_price_at_sale,negative line price,initial
+order_items,order_id~94681,unit_price_at_sale,negative line price,initial
+order_items,order_id~94822,unit_price_at_sale,negative line price,initial
+order_items,order_id~94971,unit_price_at_sale,negative line price,initial
+order_items,order_id~95001,unit_price_at_sale,negative line price,initial
+order_items,order_id~95159,unit_price_at_sale,negative line price,initial
+order_items,order_id~95187,unit_price_at_sale,negative line price,initial
+order_items,order_id~95226,unit_price_at_sale,negative line price,initial
+order_items,order_id~95243,unit_price_at_sale,negative line price,initial
+order_items,order_id~95245,unit_price_at_sale,negative line price,initial
+order_items,order_id~95331,unit_price_at_sale,negative line price,initial
+order_items,order_id~95402,unit_price_at_sale,negative line price,initial
+order_items,order_id~95599,unit_price_at_sale,negative line price,initial
+order_items,order_id~95633,unit_price_at_sale,negative line price,initial
+order_items,order_id~95654,unit_price_at_sale,negative line price,initial
+order_items,order_id~95742,unit_price_at_sale,negative line price,initial
+order_items,order_id~95819,unit_price_at_sale,negative line price,initial
+order_items,order_id~95824,unit_price_at_sale,negative line price,initial
+order_items,order_id~95845,unit_price_at_sale,negative line price,initial
+order_items,order_id~95886,unit_price_at_sale,negative line price,initial
+order_items,order_id~95959,unit_price_at_sale,negative line price,initial
+order_items,order_id~96065,unit_price_at_sale,negative line price,initial
+order_items,order_id~96121,unit_price_at_sale,negative line price,initial
+order_items,order_id~96160,unit_price_at_sale,negative line price,initial
+order_items,order_id~96188,unit_price_at_sale,negative line price,initial
+order_items,order_id~96201,unit_price_at_sale,negative line price,initial
+order_items,order_id~96212,unit_price_at_sale,negative line price,initial
+order_items,order_id~96349,unit_price_at_sale,negative line price,initial
+order_items,order_id~96436,unit_price_at_sale,negative line price,initial
+order_items,order_id~96515,unit_price_at_sale,negative line price,initial
+order_items,order_id~96559,unit_price_at_sale,negative line price,initial
+order_items,order_id~96560,unit_price_at_sale,negative line price,initial
+order_items,order_id~96573,unit_price_at_sale,negative line price,initial
+order_items,order_id~96609,unit_price_at_sale,negative line price,initial
+order_items,order_id~96627,unit_price_at_sale,negative line price,initial
+order_items,order_id~96642,unit_price_at_sale,negative line price,initial
+order_items,order_id~96689,unit_price_at_sale,negative line price,initial
+order_items,order_id~96803,unit_price_at_sale,negative line price,initial
+order_items,order_id~96959,unit_price_at_sale,negative line price,initial
+order_items,order_id~96960,unit_price_at_sale,negative line price,initial
+order_items,order_id~96992,unit_price_at_sale,negative line price,initial
+order_items,order_id~97027,unit_price_at_sale,negative line price,initial
+order_items,order_id~97034,unit_price_at_sale,negative line price,initial
+order_items,order_id~97068,unit_price_at_sale,negative line price,initial
+order_items,order_id~97351,unit_price_at_sale,negative line price,initial
+order_items,order_id~97353,unit_price_at_sale,negative line price,initial
+order_items,order_id~97829,unit_price_at_sale,negative line price,initial
+order_items,order_id~97918,unit_price_at_sale,negative line price,initial
+order_items,order_id~97924,unit_price_at_sale,negative line price,initial
+order_items,order_id~98016,unit_price_at_sale,negative line price,initial
+order_items,order_id~98056,unit_price_at_sale,negative line price,initial
+order_items,order_id~98060,unit_price_at_sale,negative line price,initial
+order_items,order_id~98080,unit_price_at_sale,negative line price,initial
+order_items,order_id~98113,unit_price_at_sale,negative line price,initial
+order_items,order_id~98135,unit_price_at_sale,negative line price,initial
+order_items,order_id~98148,unit_price_at_sale,negative line price,initial
+order_items,order_id~98161,unit_price_at_sale,negative line price,initial
+order_items,order_id~98179,unit_price_at_sale,negative line price,initial
+order_items,order_id~98343,unit_price_at_sale,negative line price,initial
+order_items,order_id~98353,unit_price_at_sale,negative line price,initial
+order_items,order_id~98415,unit_price_at_sale,negative line price,initial
+order_items,order_id~98672,unit_price_at_sale,negative line price,initial
+order_items,order_id~98766,unit_price_at_sale,negative line price,initial
+order_items,order_id~98898,unit_price_at_sale,negative line price,initial
+order_items,order_id~99019,unit_price_at_sale,negative line price,initial
+order_items,order_id~99110,unit_price_at_sale,negative line price,initial
+order_items,order_id~99176,unit_price_at_sale,negative line price,initial
+order_items,order_id~99183,unit_price_at_sale,negative line price,initial
+order_items,order_id~99514,unit_price_at_sale,negative line price,initial
+order_items,order_id~99639,unit_price_at_sale,negative line price,initial
+order_items,order_id~99694,unit_price_at_sale,negative line price,initial
+order_items,order_id~99764,unit_price_at_sale,negative line price,initial
+order_items,order_id~99823,unit_price_at_sale,negative line price,initial
+order_items,order_id~99983,unit_price_at_sale,negative line price,initial

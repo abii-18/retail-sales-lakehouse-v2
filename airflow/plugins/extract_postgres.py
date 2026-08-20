@@ -43,6 +43,7 @@ def extract_orders(conn, last_watermark):
     df = pd.read_sql(query, conn, params=(last_watermark,))
     return df
 
+
 def extract_customers(conn):
     query = """
         SELECT *
@@ -52,6 +53,7 @@ def extract_customers(conn):
 
     df = pd.read_sql(query, conn)
     return df
+
 
 def extract_products(conn):
     query = """
@@ -63,6 +65,7 @@ def extract_products(conn):
     df = pd.read_sql(query, conn)
     return df
 
+
 def extract_stores(conn):
     query = """
         SELECT *
@@ -73,6 +76,7 @@ def extract_stores(conn):
     df = pd.read_sql(query, conn)
     return df
 
+
 def extract_order_items(conn):
     query = """
         SELECT *
@@ -82,6 +86,7 @@ def extract_order_items(conn):
 
     df = pd.read_sql(query, conn)
     return df
+
 
 def extract_payments(conn):
     query = """
@@ -126,6 +131,7 @@ def update_watermark(conn, watermark):
         )
 
     conn.commit()
+
 
 def main():
     conn = get_connection()

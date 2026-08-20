@@ -39,15 +39,12 @@ def get_connection():
 
 def download_silver_files(batch_date):
     s3 = boto3.client("s3")
-
     temp_dir = tempfile.mkdtemp()
-
     local_files = []
 
     for dataset in DATASETS:
         prefix = f"archive/l2/{dataset}/"
         response = s3.list_objects_v2(Bucket=RAW_BUCKET_NAME, Prefix=prefix)
-
         parquet_key = None
 
         for obj in response.get("Contents", []):
@@ -60,9 +57,7 @@ def download_silver_files(batch_date):
             raise FileNotFoundError(f"No parquet file found for {dataset}")
 
         local_file = os.path.join(temp_dir, f"{dataset}.parquet")
-
         s3.download_file(RAW_BUCKET_NAME, parquet_key, local_file)
-
         local_files.append((dataset, local_file))
 
     return local_files
@@ -73,7 +68,6 @@ def upload_to_internal_stage(connection, local_files, batch_date):
         for dataset, local_file in local_files:
             stage_path = f"@{STAGE_NAME}/{dataset}/"
             cursor.execute(f"REMOVE {stage_path};")
-
             cursor.execute(
                 f"""
 PUT file://{local_file}
@@ -100,7 +94,6 @@ def test_connection():
                     CURRENT_USER();
                 """
             )
-
             result = cursor.fetchone()
             print(result)
 
@@ -110,16 +103,12 @@ def test_connection():
 
 def main(batch_date):
     connection = get_connection()
-
     temp_dir = None
 
     try:
         local_files = download_silver_files(batch_date)
-
         temp_dir = os.path.dirname(local_files[0][1])
-
         upload_to_internal_stage(connection, local_files, batch_date)
-
         print("All datasets uploaded successfully.")
 
     finally:

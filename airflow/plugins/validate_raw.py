@@ -4,7 +4,9 @@ from pathlib import Path
 import pandas as pd
 
 
-REQUIRED_ORDER_COLUMNS = ["order_id", "customer_id", "store_id", "order_date", "order_status", "currency_code"]
+REQUIRED_ORDER_COLUMNS = [
+    "order_id", "customer_id", "store_id", "order_date", "order_status", "currency_code"
+]
 
 
 def validate_table(table_name, required_columns=None, skip_if_missing=False):
@@ -42,6 +44,7 @@ def validate_table(table_name, required_columns=None, skip_if_missing=False):
 def validate_orders():
     validate_table("orders", required_columns=REQUIRED_ORDER_COLUMNS, skip_if_missing=True)
 
+
 def validate_customers():
     validate_table("customers")
 
@@ -69,7 +72,6 @@ def validate_currency():
 
     for filename in required_files:
         file_path = currency_dir / filename
-
         if not file_path.exists():
             raise FileNotFoundError(f"{filename} not found.")
 

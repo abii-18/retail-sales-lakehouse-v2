@@ -39,7 +39,8 @@ def land_raw():
     orders_file = Path("staging") / "orders" / f"batch_date={batch_date}" / "orders.csv"
     if orders_file.exists():
         upload_to_s3(
-            local_file=orders_file, s3_key=f"raw/orders/batch_date={batch_date}/orders.csv"
+            local_file=orders_file,
+            s3_key=f"raw/orders/batch_date={batch_date}/orders.csv",
         )
     else:
         print("No new orders found. Skipping orders upload.")
@@ -75,7 +76,10 @@ def land_raw():
     )
 
     currency_directory = Path("staging") / "currency"
-    upload_directory(local_directory=currency_directory, s3_prefix=f"raw/currency/batch_date={batch_date}")
+    upload_directory(
+        local_directory=currency_directory,
+        s3_prefix=f"raw/currency/batch_date={batch_date}",
+    )
 
     print("\nRaw landing completed successfully.")
 

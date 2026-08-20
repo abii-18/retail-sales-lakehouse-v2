@@ -42,8 +42,12 @@ def get_exchange_rates():
             "Currency API failed and no cached exchange-rate file exists."
         )
 
-    save_status(status="DEGRADED", reason="API unavailable. Previous successful exchange rates used.")
+    save_status(
+        status="DEGRADED",
+        reason="API unavailable. Previous successful exchange rates used.",
+    )
     return data
+
 
 def save_latest_rates(data):
     STAGING_PATH.mkdir(parents=True, exist_ok=True)
@@ -60,10 +64,7 @@ def load_latest_rates():
 
 def save_status(status, reason):
     STAGING_PATH.mkdir(parents=True, exist_ok=True)
-    payload = {
-        "status": status,
-        "reason": reason,
-    }
+    payload = {"status": status, "reason": reason}
     with open(STATUS_FILE, "w") as file:
         json.dump(payload, file, indent=4)
 
